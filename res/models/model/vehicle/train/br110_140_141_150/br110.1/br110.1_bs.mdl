@@ -355,7 +355,7 @@ return {
 				},
 			},
 			multipleUnitOnly = false,
-			reversible = true,
+			reversible = false,
             groupFileName = "vehicle/train/br110_140_141_150/menu_br110.mdl",
 		},
 	},
