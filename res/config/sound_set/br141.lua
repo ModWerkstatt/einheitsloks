@@ -1,4 +1,4 @@
-local bbs2util = require "bbs2util"
+local soundeffectsutil = require "soundeffectsutil"
 
 function data()
 return {
@@ -19,19 +19,19 @@ return {
 		return {
 			tracks = {
 			-- stand
-				{ gain = bbs2util.sampleCurve({
+				{ gain = soundeffectsutil.sampleCurve({
 							{0.0, 0.9 },
 							{0.01, 0.0 },
 							{1.0, 0.0 },
 						 }, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 1.0 },
 							{0.2, 0.0 },
 							{1.0, 0.0 },
 						  }, input.speed01)
 				},
 			-- knall
-				{ gain = bbs2util.sampleCurve({
+				{ gain = soundeffectsutil.sampleCurve({
 							{0.0, 0.0 },
 							{0.0001, 0.9 },
 							{0.065, 0.9 },
@@ -50,7 +50,7 @@ return {
 							{0.331, 0.0 },
 							{1.0, 0.0 },
 						 }, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 0.0 },
 							{0.499, 0.0 },
 							{0.5, 1.0 },
@@ -59,7 +59,7 @@ return {
 				},
 			--knall 2
 				{
-				  gain = bbs2util.sampleCurve({
+				  gain = soundeffectsutil.sampleCurve({
 							{0.0, 0 },
 							{0.451, 0.0 },
 							{0.452, 0.9 },
@@ -67,7 +67,7 @@ return {
 							{0.46, 0.0 },
 							{1.0, 0.0 },
 						}, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 0.0 },
 							{0.9, 0.0 },
 							{0.91, 1.0 },
@@ -77,7 +77,7 @@ return {
 
 			-- fahrt 1
 				{
-				  gain = bbs2util.sampleCurve({
+				  gain = soundeffectsutil.sampleCurve({
 							{0.0, 0 },
 							{0.01, 0.8 },
 							{0.31, 0.8 },
@@ -85,20 +85,20 @@ return {
 							{0.6, 0.5},
 							{1.0, 0.4 },
 						 }, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 0.5 },
 							{0.34, 1.0 },
 							{1.0, 1.25 },
 						  }, input.speed01)
 				},
 			-- luft
-				{ gain = bbs2util.sampleCurve({
+				{ gain = soundeffectsutil.sampleCurve({
 							{0.0, 0 },
 							{0.29, 0 },
 							{0.33, 1.25 },
 							{1.0, 1.25 },
 						 }, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 0 },
 							{0.15, 1.0 },
 							{1.0, 1.0 },
@@ -106,19 +106,19 @@ return {
 				},
 			-- brumm
 				{
-				  gain = bbs2util.sampleCurve({
+				  gain = soundeffectsutil.sampleCurve({
 							{0.0, 0 },
 							{0.01, 0.1 },
 							{0.25, 0.3 },
 							{1.0, 0.4 },
 						 }, input.speed01),
-				  pitch = bbs2util.sampleCurve({
+				  pitch = soundeffectsutil.sampleCurve({
 							{0.0, 0.7 },
 							{1.0, 2.0 },
 						  }, input.speed01)
 				},
-			    bbs2util.squeal(input.speed, input.sideForce, input.maxSideForce),
-				bbs2util.brake(input.speed, input.brakeDecel, 0.5),
+			    soundeffectsutil.squeal(input.speed, input.sideForce, input.maxSideForce),
+				soundeffectsutil.brake(input.speed, input.brakeDecel, 0.5),
 			},
 			events = {
 				horn = { gain = 1.0, pitch = 1.0 }

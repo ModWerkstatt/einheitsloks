@@ -1,6 +1,7 @@
 function data()
 return {
 	en = {
+
 		["mod_name"] = "DB Class 110 | 140 | 141 | 150",
 		["mod_desc"] = "The german standard electric locomotive (in german called \"Einheits-Elektromotiven\") of the Deutschen Bundesbahn and later DB AG consisting of the classes 110.1 and 110.2, 140.1 and 140.2, 141 and 150. They had been constructed to cover all need from light passenger services (BR 141) to the freight services (BR 140) as well as the heavy freight services (BR 150) up to the express train locomotive (BR 110). All four classes were designed to share as many components as possible. In service for many years they have been the backbone of german railroad service, some engines are in still in service.\n\nNOTE:\nThe locomotives were built in 2014 for Train Fever and slightly revised in 2018 for Transport Fever and converted in 2020 for Transport Fever 2. However, the locomotives no longer meet the quality requirements and only this package only serves as filler until a new build of them is available. This will take a while considering the number of engines",
         ["br110_name"] = "Class 110",
@@ -103,18 +104,25 @@ return {
         ["BR115_383_desc"] = "Engine 115 383 in traffic red livery. From 2005 some 110s were given to DB Autozug and redesignated to BR 115.",
         ["E10_477_desc"] = "The first locomotive of the last delivery lot, E 10 477, was delivered in 1967 as the first E 10 without a continuous gutter and without locomotive plates, but additionally provided with two eye-catching warning strips on the front sides.",
         ["BR110_365_desc"] = "An attempt to improve the visibility was made on 110 365: From mid-1973 graced a large, set to the top white triangle the locomotive front. This design was not used more widely. The locomotive kept this special paint, however, until shortly before the color change in turquoise / creme in 1983.",
+
 	},
 	de = {
-		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150",
-		["mod_desc"] = "Die Einheits-Elektromotiven der Deutschen Bundesbahn und später DB AG mit den Baureihen 110.1 und 110.2, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
+
+		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
+		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam deckten sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
+
+        ["br110.1_menu"] = "BR 110.1 / 110.2",
+        ["br110.3_menu"] = "BR 110.3",
         ["br110_name"] = "BR 110",
         ["br140_name"] = "BR 140",
         ["br141_name"] = "BR 141",
         ["br150_name"] = "BR 150",
-        ["einheitsloks_desc"] = "Die Einheits-Elektromotiven der Deutschen Bundesbahn und später DB AG mit den Baureihen 110.1 und 110.2, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.\n\nHINWEIS:\nDie Loks wurden 2014 für Train Fever gebaut und 2018 für Transport Fever etwas überarbeitet sowie 2020 für Transport Fever 2 konvertiert. Die Loks entsprechen aber nicht mehr den Qualitätsansprüchen und diese Paket dient hier nur als Lückenfüller bis zu einem Neubau, da dies in Anbetracht der Menge der Loks eine Weile dauern wird.",
-		["E10_1"] = "E 10.1",
-		["E10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
-		["E10_1_bs"] = "Lackierung: stahlblau",
+
+        ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
+
+		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
+		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
         ["E10_1239"] = "E10 1239",
         ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
 		["BR110_1"] = "BR 110.1",
@@ -133,7 +141,9 @@ return {
 		["BR115"] = "BR 115",
 		["BR115_desc"] = "Seit 2005 wurden über dreißig 110 und 113 von DB Regio an die damalige DB AutoZug (heute verschmolzen auf die Muttergesellschaft DB Fernverkehr) abgegeben. Um diese Maschinen buchhalterisch besser trennen zu können, erhielten die betroffenen 110 seit 2006 nach und nach die neue Baureihenbezeichnung 115 und wurden nach Berlin-Rummelsburg umstationiert, sodass erstmals Maschinen dieser Bauart in Ostdeutschland beheimatet sind. Das klassische Einsatzfeld der Loks sind Autozüge, außerdem verrichten sie diverse Übergabedienste und sind teilweise vor Fernzügen, wie zum Beispiel auf der Linie Berlin–Warschau im Einsatz. Die BR 115 114-1 ist die momentan älteste im Einsatz befindliche E-Lok der DB mit knapp 62 Jahren.",
 		["BR115_vr"] = "Lackierung: verkehrsrot",
-		["E40"] = "E 40",
+
+		["e40_0_fg"] = "E 40.0 flaschengrün (1957)",
+		["e40_1_fg"] = "E 40.1 chromoxidgrün (1964)",
 		["E40_desc"] = "Die E 40 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der E 10 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
 		["E40_gs"] = "Lackierung: grün mit Einzellampen",
 		["E40_2_gs"] = "Lackierung: grün mit Doppellampen",
@@ -209,6 +219,7 @@ return {
         ["BR115_383_desc"] = "Lok 115 383 in verkehrsroter Lackierung. Ab 2005 wurden einige 110er an DB Autozug abgegeben und zur BR 115 umgezeichnet.",
         ["E10_477_desc"] = "Die erste Lok des letzten Lieferloses, E10 477, wurde 1967 als erste E10 ohne umlaufende Regenrinne und ohne Lokschilder geliefert, zusätzlich jedoch mit zwei auffälligen Warnstreifen an den Frontseiten versehen.",
         ["BR110_365_desc"] = "Ein Versuch zur Verbesserung der Erkennbarkeit wurde an 110 365 vorgenommen: Ab Mitte 1973 zierte ein großes, auf die Spitze gestelltes weißes Dreieck die Lok-Front. Weitere Verbreitung fand auch dieses Design nicht. Die Lok behielt diese Sonderlackierung allerdings noch bis kurz vor dem Farbwechsel in ozeanblau/beige 1983.",
+
 	}
 }
 end

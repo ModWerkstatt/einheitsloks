@@ -12,7 +12,7 @@ return {
 				role = "CREATOR",
 			},
 		},
-		tags = { "europe", "locomotive", "bundesbahn", "deutsche bahn" },
+		tags = { "europe", "locomotive", "bundesbahn", "deutsche bahn", "electric", },
 		dependencies = { },
 			url = { "" },
 		},
