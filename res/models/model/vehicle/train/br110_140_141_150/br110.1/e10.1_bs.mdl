@@ -226,7 +226,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_bs.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_bs.mtl", "vehicle/train/br110/e10.1_bs.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_schwaiger_fensterrahmen_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

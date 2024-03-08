@@ -262,6 +262,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/antenne_lod0.msh",
+						name = "MSH_e10_trittrost_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
@@ -276,6 +282,12 @@ return {
 					{
 						materials = { "vehicle/train/einheitsloks/glas_licht.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/glas_lampe_einzeln_lod0.msh",
+						name = "MSH_e10_trittrost_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/glas_licht.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/glas_lampe_oben_alt_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -733,7 +745,7 @@ return {
 				},
 			},
 			soundSet = { name = "br110", },
-			topSpeed = 41.666666666667,
+			topSpeed = 38.88889,
 			weight = 85,
 		},
 		seatProvider = {
