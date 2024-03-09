@@ -725,8 +725,8 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("e10_2_bs"),
-			description = _("e10_desc"),
+			name = _("110_22_bs"),
+			description = _("110_desc"),
 		},
 		emission = {
 			idleEmission = -1,
