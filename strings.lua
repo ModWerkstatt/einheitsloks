@@ -120,11 +120,50 @@ return {
 
         ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
+
+
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
 		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
         ["E10_1239"] = "E10 1239",
         ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
+		
+        ["110.1_ob"] = "BR 110.1 Ozeanblau/Beige DB (1978)",
+        ["110.1_ob2"] = "BR 110.1 Ozeanblau/Beige DB AG (1994)",
+        ["110.1_or"] = "BR 110.1 Orientrot DB (1987)",
+        ["110.1_or2"] = "BR 110.1 Orientrot DB AG (1994)",
+        ["110.1_vr"] = "BR 110.1 Verkehrsrot DB AG(1997)",
+        ["110.1_vr2"] = "BR 110.1 Verkehrsrot DB AG 3-Löwen-Takt (1997)",
+        ["110.1_vr3"] = "BR 110.1 Verkehrsrot DB AG Systemtechnik (2005)",
+        ["110.1_vr4"] = "BR 115.1 Verkehrsrot DB AG (2005)",
+        ["110.1_eu"] = "BR 110.1 Purpurrot/Beige Euro Express (2017)",
+        ["110.1_tri"] = "BR 110.1 Orientrot TRI (2023)",
+		
+        ["110.2_ob"] = "BR 110.2 Ozeanblau/Beige DB (1978)",
+        ["110.2_ob2"] = "BR 110.2 Ozeanblau/Beige 2 DB (1978)",
+        ["110.2_ob3"] = "BR 110.2 Ozeanblau/Beige DB AG (1994)",
+        ["110.2_ob4"] = "BR 110.2 Ozeanblau/Beige 2 DB AG 3-Löwen-Takt (1994)",
+        ["110.2_or"] = "BR 110.2 Oerientrot DB (1987)",
+        ["110.2_or2"] = "BR 110.2 Oerientrot DB (1987)",
+        ["110.2_or3"] = "BR 110.2 Oerientrot DB AG (1994)",
+        ["110.2_or4"] = "BR 110.2 Oerientrot DB AG 3-Löwen-Takt (1994)",
+        ["110.2_vr"] = "BR 110.2 Verkehrsrot DB AG (1998)",
+        ["110.2_vr2"] = "BR 110.2 Verkehrsrot DB AG 3-Löwen-Takt (1998)",
+        ["110.2_vr3"] = "BR 115.2 Verkehrsrot DB AG (1998)",
+        ["110.2_vr4"] = "BR 110.2 Verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
+        ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",
+				
+        ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
+        ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
+        ["139.1_vr"] = "BR 139.1 Verkehrsrot DB (1998)",
+		
+        ["139.2_ob"] = "BR 139.2 Ozeanblau/Beige DB (1978)",
+        ["139.2_ob2"] = "BR 139.2 Ozeanblau/Beige DB AG (1994)",
+        ["139.2_ob3"] = "BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
+        ["139.2_ob4"] = "BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",
+				
+        ["139.2_or"] = "BR 139.2 Orientrot DB (1987)",
+		
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
 		["BR110_desc"] = "Die BR 110 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. BR 110.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als BR 110.2 bezeichnet.",

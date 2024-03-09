@@ -7,7 +7,7 @@ return {
 		dirt_rust = {
 			dirtColor = { 0.2156862745098, 0.15686274509804, 0.11372549019608, },
 			dirtOpacity = 0.1,
-			dirtScale = 8,
+			dirtScale = 1,
 			rustColor = { 0.24313725490196, 0.17254901960784, 0.14117647058824, },
 			rustOpacity = 0.5,
 			rustScale = 2.87604256543,
@@ -21,7 +21,7 @@ return {
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br110/rumpf_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br110/rumpf_2_ob_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {

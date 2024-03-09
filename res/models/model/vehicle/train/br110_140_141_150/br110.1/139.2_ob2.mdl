@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 8.24342, 1.62946, 5.91, },
-		bbMin = { -8.24342, -1.62946, -0.12558, },
+		bbMax = { 8.2445, 1.62946, 5.91, },
+		bbMin = { -8.2445, -1.62946, -0.12558, },
 	},
 	collider = {
 		params = { },
@@ -37,7 +37,7 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_1",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								_meshId = 5,
@@ -45,11 +45,11 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_2",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_1",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.21888, 0, 0, 1, },
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 3.946, 0, 0, 1, },
 					},
 					{
 						children = {
@@ -63,17 +63,17 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_3",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_4",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_2",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.21888, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.946, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
@@ -262,7 +262,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", "vehicle/train/br110/139.2_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -332,7 +332,7 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_1",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								_meshId = 5,
@@ -340,11 +340,11 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_2",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_1",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.21888, 0, 0, 1, },
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 3.946, 0, 0, 1, },
 					},
 					{
 						children = {
@@ -358,17 +358,17 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_3",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_4",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_2",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.21888, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.946, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
@@ -561,7 +561,7 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_1",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								_meshId = 5,
@@ -569,11 +569,11 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_2",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_1",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.21888, 0, 0, 1, },
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 3.946, 0, 0, 1, },
 					},
 					{
 						children = {
@@ -587,17 +587,17 @@ return {
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_3",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.70495, 0, 0.619636, 1, },
 							},
 							{
 								materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_4",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.84495, 0, 0.619636, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.70495, 0, 0.619636, 1, },
 							},
 						},
 						name = "bogie_2",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.21888, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.946, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
@@ -789,7 +789,7 @@ return {
 				},
 			},
 			multipleUnitOnly = false,
-			reversible = false,
+			reversible = true,
             groupFileName = "vehicle/train/br110_140_141_150/menu_br110.1.mdl",
 		},
 	},
