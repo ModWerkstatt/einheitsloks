@@ -155,13 +155,19 @@ return {
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = "BR 139.1 Verkehrsrot DB (1998)",
-
+		
         ["139.2_ob"] = "BR 139.2 Ozeanblau/Beige DB (1978)",
         ["139.2_ob2"] = "BR 139.2 Ozeanblau/Beige DB AG (1994)",
         ["139.2_ob3"] = "BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
-        ["139.2_ob4"] = "BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",
-
+        ["139.2_ob4"] = "BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",				
         ["139.2_or"] = "BR 139.2 Orientrot DB (1987)",
+        ["139.2_or2"] = "BR 139.2 Orientrot DB AG (1994)",
+        ["139.2_vr"] = "BR 139.2 Verkehrsrot DB AG (1998)",
+        ["139.2_vr2"] = "BR 139.2 Verkehrsrot DB AG mit Einholm SA (1998)",
+        ["139.2_vr3"] = "BR 139.2 Verkehrsrot DB AG Cargo mit Fernlicht (1998)",
+        ["139.2_vr4"] = "BR 139.2 Verkehrsrot DB AG Cargo (1998)",
+		
+        ["139.2_vr5"] = "BR 139.2 Verkehrsrot DB AG (1998)",
 
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
