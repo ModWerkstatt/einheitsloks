@@ -4,6 +4,7 @@ return {
 		{
 			indices = {
 				normal = {
+<<<<<<< HEAD
 					count = 137904,
 					offset = 1462768,
 				},
@@ -18,22 +19,48 @@ return {
 				uv0 = {
 					count = 137904,
 					offset = 1324864,
+=======
+					count = 82728,
+					offset = 829596,
+				},
+				position = {
+					count = 82728,
+					offset = 664140,
+				},
+				tangent = {
+					count = 82728,
+					offset = 912324,
+				},
+				uv0 = {
+					count = 82728,
+					offset = 746868,
+>>>>>>> 7c83237 (neue Einholm LODs)
 				},
 			},
 		},
 	},
 	vertexAttr = {
 		normal = {
+<<<<<<< HEAD
 			count = 413712,
 			numComp = 3,
 			offset = 221632,
 		},
 		position = {
 			count = 72792,
+=======
+			count = 248184,
+			numComp = 3,
+			offset = 85044,
+		},
+		position = {
+			count = 44412,
+>>>>>>> 7c83237 (neue Einholm LODs)
 			numComp = 3,
 			offset = 0,
 		},
 		tangent = {
+<<<<<<< HEAD
 			count = 551616,
 			numComp = 4,
 			offset = 635344,
@@ -42,6 +69,16 @@ return {
 			count = 148840,
 			numComp = 2,
 			offset = 72792,
+=======
+			count = 330912,
+			numComp = 4,
+			offset = 333228,
+		},
+		uv0 = {
+			count = 40632,
+			numComp = 2,
+			offset = 44412,
+>>>>>>> 7c83237 (neue Einholm LODs)
 		},
 	},
 }
