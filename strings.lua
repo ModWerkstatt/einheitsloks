@@ -1,7 +1,7 @@
 function data()
 return {
 	en = {
-
+"DYLAN IS DOOF",
 		["mod_name"] = "DB Class 110 | 140 | 141 | 150",
 		["mod_desc"] = "The german standard electric locomotive (in german called \"Einheits-Elektromotiven\") of the Deutschen Bundesbahn and later DB AG consisting of the classes 110.1 and 110.2, 140.1 and 140.2, 141 and 150. They had been constructed to cover all need from light passenger services (BR 141) to the freight services (BR 140) as well as the heavy freight services (BR 150) up to the express train locomotive (BR 110). All four classes were designed to share as many components as possible. In service for many years they have been the backbone of german railroad service, some engines are in still in service.\n\nNOTE:\nThe locomotives were built in 2014 for Train Fever and slightly revised in 2018 for Transport Fever and converted in 2020 for Transport Fever 2. However, the locomotives no longer meet the quality requirements and only this package only serves as filler until a new build of them is available. This will take a while considering the number of engines",
         ["br110_name"] = "Class 110",
@@ -127,7 +127,7 @@ return {
 		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
         ["E10_1239"] = "E10 1239",
         ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
-		
+
         ["110.1_ob"] = "BR 110.1 Ozeanblau/Beige DB (1978)",
         ["110.1_ob2"] = "BR 110.1 Ozeanblau/Beige DB AG (1994)",
         ["110.1_or"] = "BR 110.1 Orientrot DB (1987)",
@@ -138,7 +138,7 @@ return {
         ["110.1_vr4"] = "BR 115.1 Verkehrsrot DB AG (2005)",
         ["110.1_eu"] = "BR 110.1 Purpurrot/Beige Euro Express (2017)",
         ["110.1_tri"] = "BR 110.1 Orientrot TRI (2023)",
-		
+
         ["110.2_ob"] = "BR 110.2 Ozeanblau/Beige DB (1978)",
         ["110.2_ob2"] = "BR 110.2 Ozeanblau/Beige 2 DB (1978)",
         ["110.2_ob3"] = "BR 110.2 Ozeanblau/Beige DB AG (1994)",
@@ -152,18 +152,18 @@ return {
         ["110.2_vr3"] = "BR 115.2 Verkehrsrot DB AG (1998)",
         ["110.2_vr4"] = "BR 110.2 Verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
         ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",
-				
+
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = "BR 139.1 Verkehrsrot DB (1998)",
-		
+
         ["139.2_ob"] = "BR 139.2 Ozeanblau/Beige DB (1978)",
         ["139.2_ob2"] = "BR 139.2 Ozeanblau/Beige DB AG (1994)",
         ["139.2_ob3"] = "BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
         ["139.2_ob4"] = "BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",
-				
+
         ["139.2_or"] = "BR 139.2 Orientrot DB (1987)",
-		
+
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
 		["BR110_desc"] = "Die BR 110 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. BR 110.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als BR 110.2 bezeichnet.",
