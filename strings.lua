@@ -1,7 +1,6 @@
 function data()
 return {
 	en = {
-"DYLAN IS DOOF",
 		["mod_name"] = "DB Class 110 | 140 | 141 | 150",
 		["mod_desc"] = "The german standard electric locomotive (in german called \"Einheits-Elektromotiven\") of the Deutschen Bundesbahn and later DB AG consisting of the classes 110.1 and 110.2, 140.1 and 140.2, 141 and 150. They had been constructed to cover all need from light passenger services (BR 141) to the freight services (BR 140) as well as the heavy freight services (BR 150) up to the express train locomotive (BR 110). All four classes were designed to share as many components as possible. In service for many years they have been the backbone of german railroad service, some engines are in still in service.\n\nNOTE:\nThe locomotives were built in 2014 for Train Fever and slightly revised in 2018 for Transport Fever and converted in 2020 for Transport Fever 2. However, the locomotives no longer meet the quality requirements and only this package only serves as filler until a new build of them is available. This will take a while considering the number of engines",
         ["br110_name"] = "Class 110",
