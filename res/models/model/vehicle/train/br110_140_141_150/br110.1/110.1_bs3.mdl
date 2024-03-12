@@ -262,18 +262,6 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_bs3.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/dbkeks_lod0.msh",
-						name = "MSH_110_gusskeks_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br110/110.1_bs3.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/fabrikschilder_lod0.msh",
-						name = "MSH_110_gusskeks_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
@@ -281,7 +269,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_luefter_schwaiger_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
