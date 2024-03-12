@@ -167,7 +167,12 @@ return {
         ["139.2_vr3"] = "BR 139.2 Verkehrsrot DB AG Cargo mit Fernlicht (1998)",
         ["139.2_vr4"] = "BR 139.2 Verkehrsrot DB AG Cargo (1998)",
 		
-        ["139.2_radve"] = "BR 139.2 Raildaventur (2012)",
+        ["139.2_radve"] = "BR 139.2 Raildaventure 139 558 (2012)",
+        ["139.2_byb"] = "BR 139.2 Bayernbahn 139 287 (2017)",
+        ["139.2_byb2"] = "BR 139.2 Bayernbahn 139 309 (2020)",
+        ["139.2_lomo"] = "BR 139.2 Lokomotion (2020)",
+        ["139.2_lomo2"] = "BR 139.2 Lokomotion (2020)",
+        ["139.2_lomo3"] = "BR 139.2 Lokomotion (2020)",
 
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
