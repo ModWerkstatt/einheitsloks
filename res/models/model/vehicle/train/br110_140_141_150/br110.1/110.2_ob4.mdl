@@ -148,7 +148,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_doppel_weiss_lod0.msh",
 						name = "licht_weiss_vorne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -166,7 +166,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_doppel_weiss_lod0.msh",
 						name = "licht_weiss_hinten",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -431,25 +431,25 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_einzel_weiss_lod0.msh",
 						name = "licht_weiss_vorne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_einzel_rot_lod0.msh",
 						name = "licht_rot_hinten",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_einzel_weiss_lod0.msh",
 						name = "licht_weiss_hinten",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/licht.mtl", },
+						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/einheitsloks_licht/br110_licht_einzel_rot_lod0.msh",
 						name = "licht_rot_vorne",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
