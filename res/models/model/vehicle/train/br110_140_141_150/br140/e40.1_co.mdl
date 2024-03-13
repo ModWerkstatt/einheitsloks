@@ -256,6 +256,18 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br140/140.0_co.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/heimatschilder_140_lod0.msh",
+						name = "MSH_110_gusskeks_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br140/140.0_co.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/fabrikschilder_lod0.msh",
+						name = "MSH_110_gusskeks_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/br140/e40.1_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lokschild_seitlich_br140_lod0.msh",
 						name = "MSH_110_gusskeks_1",
