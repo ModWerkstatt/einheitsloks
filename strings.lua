@@ -171,8 +171,10 @@ return {
         ["139.2_byb"] = "BR 139.2 Bayernbahn 139 287 (2017)",
         ["139.2_byb2"] = "BR 139.2 Bayernbahn 139 309 (2020)",
         ["139.2_lomo"] = "BR 139.2 Lokomotion 139 133 (2016)",
-        ["139.2_lomo2"] = "BR 139.2 Lokomotion (2020)",
-        ["139.2_lomo3"] = "BR 139.2 Lokomotion (2020)",
+        ["139.2_lomo2"] = "BR 139.2 Lokomotion 139 260 (2009)",
+        ["139.2_lomo3"] = "BR 139.2 Lokomotion 139 177 (2005)",
+        ["139.2_lomo4"] = "BR 139.2 Lokomotion 139 213 (2022)",
+        ["139.2_lomo5"] = "BR 139.2 Lokomotion 139 311 (2016)",
 
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
