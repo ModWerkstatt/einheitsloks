@@ -151,6 +151,9 @@ return {
         ["110.2_vr3"] = "BR 115.2 Verkehrsrot DB AG (1998)",
         ["110.2_vr4"] = "BR 110.2 Verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
         ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",
+		
+		
+        ["110.2_dessau"] = "BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",
 
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
