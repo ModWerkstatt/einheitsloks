@@ -137,7 +137,7 @@ return {
         ["110.1_vr4"] = "BR 115.1 Verkehrsrot DB AG (2005)",
         ["110.1_eu"] = "BR 110.1 Purpurrot/Beige Euro Express (2017)",
         ["110.1_tri"] = "BR 110.1 Orientrot TRI (2023)",
-
+				
         ["110.2_ob"] = "BR 110.2 Ozeanblau/Beige DB (1978)",
         ["110.2_ob2"] = "BR 110.2 Ozeanblau/Beige 2 DB (1978)",
         ["110.2_ob3"] = "BR 110.2 Ozeanblau/Beige DB AG (1994)",
@@ -185,7 +185,16 @@ return {
         ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
         ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
 
-
+		["einfach_desc"] = " Variante mit Einfachlampe.",
+		["doppel_desc"] = " Variante mit Doppellampe.",
+		["led_desc"] = " Variante mit LED Lichter.",		
+		["wende_desc"] = " Variante mit Doppellampe und Wendezugsteurung.",
+		["wende2_desc"] = " Variante mit LED Lichter und Wendezugsteurung.",
+		["verschleiß_desc"] = " Variante mit Doppellampe, Verschleißpufferbohle und Wendezugsteurung.",
+		["verschleiß2_desc"] = " Variante mit Doppellampe und Verschleißpufferbohle.",
+		
+		
+		
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
 		["BR110_desc"] = "Die BR 110 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. BR 110.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als BR 110.2 bezeichnet.",
