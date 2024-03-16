@@ -110,7 +110,7 @@ return {
 		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
 		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam deckten sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
-        ["br110.1_menu"] = "BR 110.1 / 110.2",
+        ["br110.1_menu"] = "BR 110.1 / 110.2 / 139",
         ["br110.3_menu"] = "BR 110.3",
         ["br110_name"] = "BR 110",
         ["br140_name"] = "BR 140",
@@ -150,9 +150,7 @@ return {
         ["110.2_vr2"] = "BR 110.2 Verkehrsrot DB AG 3-Löwen-Takt (1998)",
         ["110.2_vr3"] = "BR 115.2 Verkehrsrot DB AG (1998)",
         ["110.2_vr4"] = "BR 110.2 Verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
-        ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",
-		
-		
+        ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",				
         ["110.2_dessau"] = "BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",
 
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
@@ -178,6 +176,9 @@ return {
         ["139.2_lomo3"] = "BR 139.2 Lokomotion 139 177 (2005)",
         ["139.2_lomo4"] = "BR 139.2 Lokomotion 139 213 (2022)",
         ["139.2_lomo5"] = "BR 139.2 Lokomotion 139 311 (2016)",
+
+        ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
+
 
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
