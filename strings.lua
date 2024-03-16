@@ -178,6 +178,12 @@ return {
         ["139.2_lomo5"] = "BR 139.2 Lokomotion 139 311 (2016)",
 
         ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
+        ["140.0_ob2"] = "BR 140.0 Ozeanblau/Beige DB AG (1994)",
+        ["140.0_ob3"] = "BR 140.0 Ozeanblau/Beige 2 DB (1978)",
+        ["140.0_ob4"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
+        ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
+        ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
+        ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
 
 
 		["BR110_1"] = "BR 110.1",
