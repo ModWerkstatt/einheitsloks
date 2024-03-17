@@ -210,7 +210,8 @@ return {
 		["wende_desc"] = " Variante mit Doppellampe und Wendezugsteurung.",
 		["wende2_desc"] = " Variante mit LED Lichter und Wendezugsteurung.",
 		["verschleiß_desc"] = " Variante mit Doppellampe, Verschleißpufferbohle und Wendezugsteurung.",
-		["verschleiß2_desc"] = " Variante mit Doppellampe und Verschleißpufferbohle.",
+		["verschleiß2_desc"] = " Variante mit LED Lichter, Verschleißpufferbohle und Wendezugsteurung.",
+		["verschleiß3_desc"] = " Variante mit Doppellampe und Verschleißpufferbohle.",
 		["cakv_desc"] = " Variante mit Doppellampe, Wendezugsteurung und Cakv 69 Kupplung.",
 		["rk900_desc"] = " Variante mit Doppellampe und RK 900.",
 		
