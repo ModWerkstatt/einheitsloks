@@ -212,10 +212,10 @@ return {
         ["140.1_ob5"] = "BR 140.1 Ozeanblau/Beige 2 DB AG (1994)",	
         ["140.1_ob6"] = "BR 140.1 Ozeanblau/Beige DB Museum (2012)",
         ["140.1_or"] = "BR 140.1 Orientrot DB (1987)",	
-        ["140.1_or2"] = "BR 140.1 Orientrot DB (1987)",
+        ["140.1_or2"] = "BR 140.1 Orientrot 2 DB (1987)",
         ["140.1_or3"] = "BR 140.1 Orientrot DB AG (1994)",
-        ["140.1_or4"] = "BR 140.1 Orientrot DB AG (1994)",
-        ["140.1_or5"] = "BR 140.1 Orientrot DB AG (1994)",
+        ["140.1_or4"] = "BR 140.1 Orientrot 2 DB AG (1994)",
+        ["140.1_or5"] = "BR 140.1 Orientrot DB AG RK 900 (1994)",
         ["140.1_vr"] = "BR 140.1 Verkehrsrot DB AG (1998)",
 		["e40_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		
