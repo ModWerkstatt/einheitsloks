@@ -714,7 +714,7 @@ return {
 		},
 		description = {
 			name = _("140.0_co2"),
-			description = _("140_desc"),
+			description = _("e40_desc"),
 		},
 		emission = {
 			idleEmission = -1,

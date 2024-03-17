@@ -162,7 +162,8 @@ return {
         ["110.2_press"] = "BR 110.1 Ozeanblau/Beige PRESS (2023)",				
         ["110.2_dessau"] = "BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",		
         ["e10.2_rheingold"] = "E10.2 Stahlblau/Beige DB Rheingold (1962)",
-
+		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = "BR 139.1 Verkehrsrot DB (1998)",
@@ -186,7 +187,8 @@ return {
         ["139.2_lomo3"] = "BR 139.2 Lokomotion 139 177 (2005)",
         ["139.2_lomo4"] = "BR 139.2 Lokomotion 139 213 (2022)",
         ["139.2_lomo5"] = "BR 139.2 Lokomotion 139 311 (2016)",
-
+		["139_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		
         ["e40.0_fg"] = "E40.0 Flaschengrün DB (1957)",
         ["e40.0_ca"] = "E40.0 Cromoxidgrün DB (1959)",
         ["140.0_co"] = "BR 140.0 Cromoxidgrün DB (1968)",
@@ -201,8 +203,10 @@ return {
         ["140.0_vr"] = "BR 140.0 Verkehrsrot DB AG (1998)",
         ["e40.11_co"] = "E40.11 Cromoxidgrün DB (1961)",
 				
-        ["e40.1_co"] = "E40.1 Cromoxidgrün DB (1960)",
-
+        ["e40.1_co"] = "E40.1 Cromoxidgrün DB (1960)",		
+        ["140.1_ob"] = "BR 140.1 Ozeanblau/Beige DB (1978)",
+		["e40_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		
 		["einfach_desc"] = " Variante mit Einfachlampe.",
 		["doppel_desc"] = " Variante mit Doppellampe.",
 		["led_desc"] = " Variante mit LED Lichter.",		
