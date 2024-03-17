@@ -112,10 +112,9 @@ return {
 
         ["br110.1_menu"] = "BR 110.1 / 110.2 / 139",
         ["br110.3_menu"] = "BR 110.3",
-        ["br110_name"] = "BR 110",
-        ["br140_name"] = "BR 140",
-        ["br141_name"] = "BR 141",
-        ["br150_name"] = "BR 150",
+        ["br140_name"] = "BR 140.0 / 140.1 / 140.7",
+        ["br141_name"] = "BR 141.1 / 141.2",
+        ["br150_name"] = "BR 150.1 / 150.2",
 
         ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
