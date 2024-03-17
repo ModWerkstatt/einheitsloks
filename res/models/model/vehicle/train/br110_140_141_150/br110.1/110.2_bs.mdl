@@ -700,14 +700,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1962,
-			yearTo = 1968,
+			yearFrom = 1968,
+			yearTo = 1974,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("e10_2_bs"),
+			name = _("110.2_bs"),
 			description = _("e10_desc"),
 		},
 		emission = {

@@ -725,13 +725,13 @@ return {
 	metadata = {
 		availability = {
 			yearFrom = 1957,
-			yearTo = 1968,
+			yearTo = 1963,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("e40_0_fg"),
+			name = _("e40.0_fg"),
 			description = _("e40_desc"),
 		},
 		emission = {

@@ -706,14 +706,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1957,
-			yearTo = 1968,
+			yearFrom = 1968,
+			yearTo = 1974,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("e10_1_bs"),
+			name = _("110.1_bs"),
 			description = _("e10_desc"),
 		},
 		emission = {

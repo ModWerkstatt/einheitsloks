@@ -725,7 +725,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("e10_2_bs"),
+			name = _("e10.2_rheingold"),
 			description = _("e10_desc"),
 		},
 		emission = {

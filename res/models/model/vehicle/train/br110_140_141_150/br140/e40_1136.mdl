@@ -724,14 +724,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1957,
+			yearFrom = 1961,
 			yearTo = 1968,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("e40_1136_co"),
+			name = _("e40.11_co"),
 			description = _("140_desc"),
 		},
 		emission = {

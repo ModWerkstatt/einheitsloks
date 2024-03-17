@@ -718,14 +718,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1962,
-			yearTo = 1968,
+			yearFrom = 1968,
+			yearTo = 1994,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("110_22_bs"),
+			name = _("110.2_bs2"),
 			description = _("110_desc"),
 		},
 		emission = {

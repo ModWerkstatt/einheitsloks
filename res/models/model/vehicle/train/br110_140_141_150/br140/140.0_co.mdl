@@ -719,7 +719,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("140_0_co"),
+			name = _("140.0_co"),
 			description = _("140_desc"),
 		},
 		emission = {
