@@ -784,7 +784,7 @@ return {
 			},
 			multipleUnitOnly = false,
 			reversible = false,
-            groupFileName = "vehicle/train/br110_140_141_150/menu_br110.1.mdl",
+            groupFileName = "vehicle/train/br110_140_141_150/menu_br140.mdl",
 		},
 	},
 	version = 1,

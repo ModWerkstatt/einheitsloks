@@ -112,9 +112,9 @@ return {
 
         ["br110.1_menu"] = "BR 110.1 / 110.2 / 139",
         ["br110.3_menu"] = "BR 110.3",
-        ["br140_name"] = "BR 140.0 / 140.1 / 140.7",
-        ["br141_name"] = "BR 141.1 / 141.2",
-        ["br150_name"] = "BR 150.1 / 150.2",
+        ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
+        ["br141_menu"] = "BR 141.1 / 141.2",
+        ["br150_menu"] = "BR 150.1 / 150.2",
 
         ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
@@ -215,6 +215,7 @@ return {
         ["140.1_or2"] = "BR 140.1 Orientrot DB (1987)",
         ["140.1_or3"] = "BR 140.1 Orientrot DB AG (1994)",
         ["140.1_or4"] = "BR 140.1 Orientrot DB AG (1994)",
+        ["140.1_or5"] = "BR 140.1 Orientrot DB AG (1994)",
         ["140.1_vr"] = "BR 140.1 Verkehrsrot DB AG (1998)",
 		["e40_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		
