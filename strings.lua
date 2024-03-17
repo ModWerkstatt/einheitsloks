@@ -118,13 +118,13 @@ return {
 
         ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
-
-
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
 		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
         ["E10_1239"] = "E10 1239",
         ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
+
+
 
         ["e10.1_bs"] = "E 10.1 Stahlblau DB (1957)",
         ["110.1_bs"] = "BR 110.1 Stahlblau DB (1968)",
