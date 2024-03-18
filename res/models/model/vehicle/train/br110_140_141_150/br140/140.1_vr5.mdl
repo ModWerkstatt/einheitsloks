@@ -203,7 +203,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_vr.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau_zs_dose_alt_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau_zs_dose_modern_mit_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -245,13 +245,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_vr.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/tritt_vorne_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/front_tritt_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_vr.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/griffe_durchgehend_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/front_griffstange_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -695,7 +695,7 @@ return {
 	metadata = {
 		availability = {
 			yearFrom = 1998,
-			yearTo = 0000,
+			yearTo = 2016,
 		},
 		cost = {
 			price = -1,
