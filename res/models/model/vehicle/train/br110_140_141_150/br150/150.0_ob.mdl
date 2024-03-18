@@ -191,7 +191,7 @@ return {
 						materials = { "vehicle/train/br150/150.0_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/dach_eckig_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 4, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
