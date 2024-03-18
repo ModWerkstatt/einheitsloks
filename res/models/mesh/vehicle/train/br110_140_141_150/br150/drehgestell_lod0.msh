@@ -4,48 +4,20 @@ return {
 		{
 			indices = {
 				normal = {
-					count = 309576,
-					offset = 3669400,
+					count = 315360,
+					offset = 3442584,
 				},
 				position = {
-					count = 309576,
-					offset = 3050248,
+					count = 315360,
+					offset = 2811864,
 				},
 				tangent = {
-					count = 309576,
-					offset = 3978976,
+					count = 315360,
+					offset = 3757944,
 				},
 				uv0 = {
-					count = 309576,
-					offset = 3359824,
-				},
-				uv1 = {
-					count = 309576,
-					offset = 4288552,
-				},
-			},
-		},
-		{
-			indices = {
-				normal = {
-					count = 5784,
-					offset = 4609696,
-				},
-				position = {
-					count = 5784,
-					offset = 4598128,
-				},
-				tangent = {
-					count = 5784,
-					offset = 4615480,
-				},
-				uv0 = {
-					count = 5784,
-					offset = 4603912,
-				},
-				uv1 = {
-					count = 5784,
-					offset = 4621264,
+					count = 315360,
+					offset = 3127224,
 				},
 			},
 		},
@@ -70,11 +42,6 @@ return {
 			count = 246768,
 			numComp = 2,
 			offset = 357576,
-		},
-		uv1 = {
-			count = 238384,
-			numComp = 2,
-			offset = 2811864,
 		},
 	},
 }
