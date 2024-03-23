@@ -780,6 +780,17 @@ return {
 			reversible = false,
             groupFileName = "vehicle/train/br110_140_141_150/menu_br110.1.mdl",
 		},
+		einheitsloks = {
+			vorspann = false,
+			fake = false,
+			br110 = true,
+			br110_3 = false,
+			br139 = false,
+			br140 = false,
+			br141 = false,
+			br150 = false,
+			privatbahn = false,
+		},
 	},
 	version = 1,
 }

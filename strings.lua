@@ -3,7 +3,32 @@ return {
 	en = {
 		["mod_name"] = "DB Class 110 | 140 | 141 | 150",
 		["mod_desc"] = "The german standard electric locomotive (in german called \"Einheits-Elektromotiven\") of the Deutschen Bundesbahn and later DB AG consisting of the classes 110.1 and 110.2, 140.1 and 140.2, 141 and 150. They had been constructed to cover all need from light passenger services (BR 141) to the freight services (BR 140) as well as the heavy freight services (BR 150) up to the express train locomotive (BR 110). All four classes were designed to share as many components as possible. In service for many years they have been the backbone of german railroad service, some engines are in still in service.\n\nNOTE:\nThe locomotives were built in 2014 for Train Fever and slightly revised in 2018 for Transport Fever and converted in 2020 for Transport Fever 2. However, the locomotives no longer meet the quality requirements and only this package only serves as filler until a new build of them is available. This will take a while considering the number of engines",
-        ["br110_name"] = "Class 110",
+        		
+        ["Vorspann_br193"] = "Active lead engines?",
+        ["option_vorspann_br193_desc"] = "Active the lead engines (with front panto raised)?",
+		
+        ["Fake_br193"] = "Active fake engines?",
+        ["option_fake_br193_desc"] = "Active the fake engines (pantos down, no light, no driver)?",
+		
+		["Ms_br193"] = "Activate Vectron class 193 multi-system?",
+		["option_ms_br193_desc"] = "Should the Vectron class 193 be activated for the multi-system (pantos down, no light, no driver)?",
+		["Ac_br193"] = "Activate Vectron class 193 AC system?",
+		["option_ac_br193_desc"] = "Should the Vectron class 193 be activated for the AC system (pantos down, no light, no driver)?",
+		["dc_br193"] = "Activate Vectron class 193 DC system?",
+		["option_dc_br193_desc"] = "Should the Vectron class 193 be activated for the DC system (Pantos down, no light, no driver)?",
+		["Sm_br193"] = "Activate Smartron class 192?",
+		["option_sm_br193_desc"] = "Should the Smartron class 192 Pantos bottom, no light, no driver) be activated?",
+		["dachinl_br193"] = "Activate Vectron class 193 with DACHINL equipment?",
+		["option_dachinal_br193_desc"] = "Should the Vectron class 193 be activated with DACHINL equipment (pantos down, no lights, no driver)?",
+		["osteuropa_br193"] = "Activate Vectron class 193 with Eastern Europe equipment?",
+		["option_osteuropa_br193_desc"] = "Should the Vectron class 193 be activated with Eastern European equipment (pantos down, no lights, no driver)?",
+		["skandinavien_br193"] = "Activate Smartron Vectron class 193 with Scandinavia equipment?",
+		["option_skandinavien_br193_desc"] = "Should the Vectron class 193 be activated with Scandinavian equipment (pantos down, no lights, no driver)?",
+		
+		
+		
+		
+		["br110_name"] = "Class 110",
         ["br140_name"] = "Class 140",
         ["br141_name"] = "Class 141",
         ["br150_name"] = "Class 150",
@@ -110,13 +135,36 @@ return {
 		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
 		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam deckten sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
-        ["br110.1_menu"] = "BR 110.1 / 110.2 / 139",
-        ["br110.3_menu"] = "BR 110.3",
+        ["br110.1_menu"] = "BR 110.1 / 110.2 / 115.1 / 115.2 / 139.1 / 139.2",
+        ["br110.3_menu"] = "BR 110.3 / 115.3",
         ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
         ["br141_menu"] = "BR 141.1 / 141.2",
         ["br150_menu"] = "BR 150.1 / 150.2",
 
         ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
+
+        ["einheitsloks_vorspann"] = "Vorspann-Loks aktivieren?",
+        ["option_vorspann_einheitsloks_desc"] = "Die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
+
+        ["einheitsloks_fake"] = "Fake-Loks aktivieren?",
+        ["option_fake_einheitsloks_desc"] = "Die Fake-Loks (Pantos unten, kein Licht, kein Fahrer) aktiviert werden?",
+
+		["einheitsloks_br110"] = "BR 110.1 / BR 110.2 / BR 115.1 / BR 115.2 aktivieren?",
+		["option_einheitsloks_br110_desc"] = "Soll die BR 110.1 / BR 110.2/ BR 115.1 /BR 115.2 im Spiel aktiviert werden?",
+		["einheitsloks_br110_3"] = "BR 110.3 / BR 115.3 aktivieren?",
+		["option_einheitsloks_br110_3_desc"] = "Soll die BR 110.3 / BR 115.3 im Spiel aktiviert werden?",
+		["einheitsloks_br139"] = "BR 139.1 / BR 139.2 aktivieren?",
+		["option_einheitsloks_br139_desc"] = "Soll die BR 139.1 / BR 139.2 im Spiel aktiviert werden?",
+		["einheitsloks_br140"] = " BR 140.1 / BR 141.1 / BR 140.7 aktivieren?",
+		["option_einheitsloks_br140_desc"] = "Soll die BR 140.1 / BR 141.1 / BR 140.7 im Spiel aktiviert werden?",
+		["einheitsloks_br141"] = "BR 141.0 / BR 141.1 aktivieren?",
+		["option_einheitsloks_br141_desc"] = "Soll die BR 141.0 / BR 141.1 im Spiel aktiviert werden?",
+		["einheitsloks_br150"] = "BR 150.0 / BR 150.1 aktivieren?",
+		["option_einheitsloks_br150_desc"] = "Soll die BR 150.0 / BR 150.1 im Spiel aktiviert werden?",
+		["einheitsloks_privatbahn"] = "Privatbahn Lackierungen aktivieren?",
+		["option_einheitsloks_br150_desc"] = "Soll die Lackierungen der Privatbahnen im Spiel aktiviert werden?",
+
+
 
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
