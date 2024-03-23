@@ -225,8 +225,7 @@ return {
         ["139.2_vr"] = "BR 139.2 Verkehrsrot DB AG (1998)",
         ["139.2_vr2"] = "BR 139.2 Verkehrsrot DB AG mit Einholm SA (1998)",
         ["139.2_vr3"] = "BR 139.2 Verkehrsrot DB AG Cargo mit Fernlicht (1998)",
-        ["139.2_vr4"] = "BR 139.2 Verkehrsrot DB AG Cargo (1998)",
-		
+        ["139.2_vr4"] = "BR 139.2 Verkehrsrot DB AG Cargo (1998)",		
         ["139.2_radve"] = "BR 139.2 Raildaventure 139 558 (2012)",
         ["139.2_byb"] = "BR 139.2 Bayernbahn 139 287 (2017)",
         ["139.2_byb2"] = "BR 139.2 Bayernbahn 139 309 (2020)",
@@ -272,7 +271,7 @@ return {
         ["140.1_vr6"] = "BR 140.1 Verkehrsrot DB AG (1998)",			
         ["140.1_ebm"] = "BR 140.1 EBM Cargo (2012)",
        
-	   ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
+	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
 		["e40_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		
 		["einfach_desc"] = " Variante mit Einfachlampe.",
