@@ -135,11 +135,11 @@ return {
 		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
 		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1, 110.2 und 110.3, 139.1 und 139.2, 140.1, 140.2 und 140.7, 141.0 und 141.1, 150.0 und 150.1. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 139, BR 141) über den Güterverkehr (BR 139, BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst bei Privatbahnen.",
 
-        ["br110.1_menu"] = "BR 110.1 / 110.2 / 115.1 / 115.2 / 139.1 / 139.2",
+        ["br110.1_menu"] = "BR 110.1 / 110.2 / 139.1 / 139.2",
         ["br110.3_menu"] = "BR 110.3 / 115.3",
         ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
-        ["br141_menu"] = "BR 141.1 / 141.2",
-        ["br150_menu"] = "BR 150.1 / 150.2",
+        ["br141_menu"] = "BR 141.0 / 141.1",
+        ["br150_menu"] = "BR 150.0 / 150.1",
 
         ["einheitsloks_vorspann"] = "Vorspann-Loks aktivieren?",
         ["option_vorspann_einheitsloks_desc"] = "Die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
