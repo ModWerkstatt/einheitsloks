@@ -21,7 +21,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau verschleiss_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -193,6 +193,12 @@ return {
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/antenne_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br140/140.1_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/kws_kabel_lod0.msh",
+						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
