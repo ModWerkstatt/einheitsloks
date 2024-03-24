@@ -726,7 +726,7 @@ return {
 		},
 		description = {
 			name = _("e10.1_bs"),
-			description = _("e10_desc"),
+			description = _("e10_desc") .. _("einfach_desc"),
 		},
 		emission = {
 			idleEmission = -1,

@@ -642,7 +642,7 @@ return {
 		},
 		description = {
 			name = _("139.2_vr2"),
-			description = _("139_desc"),
+			description = _("139_desc") .. _("wende_desc"),
 		},
 		emission = {
 			idleEmission = -1,

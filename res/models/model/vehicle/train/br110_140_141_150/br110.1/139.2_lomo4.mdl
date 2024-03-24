@@ -712,7 +712,7 @@ return {
 		},
 		description = {
 			name = _("139.2_lomo4"),
-			description = _("139_desc"),
+			description = _("139_desc") .. _("wende2_desc"),
 		},
 		emission = {
 			idleEmission = -1,

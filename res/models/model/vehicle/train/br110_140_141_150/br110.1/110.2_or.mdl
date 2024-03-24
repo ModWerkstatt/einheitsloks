@@ -714,7 +714,7 @@ return {
 		},
 		description = {
 			name = _("110.2_or"),
-			description = _("e10_desc"),
+			description = _("e10_desc") .. _("doppel_desc"),
 		},
 		emission = {
 			idleEmission = -1,

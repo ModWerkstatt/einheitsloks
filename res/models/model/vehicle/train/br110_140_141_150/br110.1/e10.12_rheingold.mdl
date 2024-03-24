@@ -720,7 +720,7 @@ return {
 		},
 		description = {
 			name = _("e10.12_rheingold"),
-			description = _("e10_desc"),
+			description = _("e10_desc") .. _("einfach_desc"),
 		},
 		emission = {
 			idleEmission = -1,
