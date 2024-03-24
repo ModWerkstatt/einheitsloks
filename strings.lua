@@ -133,15 +133,13 @@ return {
 	de = {
 
 		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
-		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam deckten sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
+		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1, 110.2 und 110.3, 139.1 und 139.2, 140.1, 140.2 und 140.7, 141.0 und 141.1, 150.0 und 150.1. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 139, BR 141) über den Güterverkehr (BR 139, BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst bei Privatbahnen.",
 
         ["br110.1_menu"] = "BR 110.1 / 110.2 / 115.1 / 115.2 / 139.1 / 139.2",
         ["br110.3_menu"] = "BR 110.3 / 115.3",
         ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
         ["br141_menu"] = "BR 141.1 / 141.2",
         ["br150_menu"] = "BR 150.1 / 150.2",
-
-        ["einheitsloks_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1 und 110.2 und 110.3, 140.1 und 140.2, 141 und 150. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 141) über den Güterverkehr (BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst.",
 
         ["einheitsloks_vorspann"] = "Vorspann-Loks aktivieren?",
         ["option_vorspann_einheitsloks_desc"] = "Die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
@@ -151,28 +149,24 @@ return {
 
 		["einheitsloks_br110"] = "BR 110.1 / BR 110.2 / BR 115.1 / BR 115.2 aktivieren?",
 		["option_einheitsloks_br110_desc"] = "Soll die BR 110.1 / BR 110.2/ BR 115.1 /BR 115.2 im Spiel aktiviert werden?",
+		
 		["einheitsloks_br110_3"] = "BR 110.3 / BR 115.3 aktivieren?",
 		["option_einheitsloks_br110_3_desc"] = "Soll die BR 110.3 / BR 115.3 im Spiel aktiviert werden?",
+		
 		["einheitsloks_br139"] = "BR 139.1 / BR 139.2 aktivieren?",
 		["option_einheitsloks_br139_desc"] = "Soll die BR 139.1 / BR 139.2 im Spiel aktiviert werden?",
+		
 		["einheitsloks_br140"] = " BR 140.1 / BR 141.1 / BR 140.7 aktivieren?",
 		["option_einheitsloks_br140_desc"] = "Soll die BR 140.1 / BR 141.1 / BR 140.7 im Spiel aktiviert werden?",
+		
 		["einheitsloks_br141"] = "BR 141.0 / BR 141.1 aktivieren?",
 		["option_einheitsloks_br141_desc"] = "Soll die BR 141.0 / BR 141.1 im Spiel aktiviert werden?",
+		
 		["einheitsloks_br150"] = "BR 150.0 / BR 150.1 aktivieren?",
 		["option_einheitsloks_br150_desc"] = "Soll die BR 150.0 / BR 150.1 im Spiel aktiviert werden?",
+		
 		["einheitsloks_privatbahn"] = "Privatbahn Lackierungen aktivieren?",
 		["option_einheitsloks_br150_desc"] = "Soll die Lackierungen der Privatbahnen im Spiel aktiviert werden?",
-
-
-
-		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
-		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
-		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
-        ["E10_1239"] = "E10 1239",
-        ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
-
-
 
         ["e10.1_bs"] = "E 10.1 Stahlblau DB (1957)",
         ["110.1_bs"] = "BR 110.1 Stahlblau DB (1968)",
@@ -212,10 +206,19 @@ return {
         ["e10.2_rheingold"] = "E10.2 Stahlblau/Beige DB Rheingold (1962)",
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 		
+		["e10.3_bs"] = "E10.3 Stahlblau DB (1960)",
+        ["110.3_bs"] = "BR 110.3 Stahlblau DB (1968)",		
+        ["110.3_ob"] = "BR 110.3 Ozeanblau/Beige DB (1978)",
+        ["110.3_or"] = "BR 110.3 Orientrot DB (1987)",
+        ["110.3_vr"] = "BR 110.3 Verkehrsrot DB AG (1998)",
+		
+		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
+        		
         ["139.1_ob"] = "BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = "BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = "BR 139.1 Verkehrsrot DB (1998)",
 		
+        ["e40.11_co"] = "E40.11 Cromoxidgrün DB (1961)",
         ["139.2_ob"] = "BR 139.2 Ozeanblau/Beige DB (1978)",
         ["139.2_ob2"] = "BR 139.2 Ozeanblau/Beige DB AG (1994)",
         ["139.2_ob3"] = "BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
@@ -234,7 +237,8 @@ return {
         ["139.2_lomo3"] = "BR 139.2 Lokomotion 139 177 (2005)",
         ["139.2_lomo4"] = "BR 139.2 Lokomotion 139 213 (2022)",
         ["139.2_lomo5"] = "BR 139.2 Lokomotion 139 311 (2016)",
-		["139_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		
+		["139_desc"] = "Die BR 139 war die Einheitselektrolokomotive für den Güterverkehr und Personenverkehr der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
 		
         ["e40.0_fg"] = "E40.0 Flaschengrün DB (1957)",
         ["e40.0_co"] = "E40.0 Cromoxidgrün DB (1960)",
@@ -249,7 +253,6 @@ return {
         ["140.0_or3"] = "BR 140.0 Orientrot DB AG (1994)",
         ["140.0_or4"] = "BR 140.0 Orientrot 2 DB AG (1994)",
         ["140.0_vr"] = "BR 140.0 Verkehrsrot DB AG (1998)",
-        ["e40.11_co"] = "E40.11 Cromoxidgrün DB (1961)",
 				
         ["e40.1_co"] = "E40.1 Cromoxidgrün DB (1960)",		
         ["140.1_ob"] = "BR 140.1 Ozeanblau/Beige DB (1978)",	
@@ -270,10 +273,46 @@ return {
         ["140.1_vr5"] = "BR 140.1 Verkehrsrot DB AG (1998)",
         ["140.1_vr6"] = "BR 140.1 Verkehrsrot DB AG (1998)",			
         ["140.1_ebm"] = "BR 140.1 EBM Cargo (2012)",
-       
-	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
-		["e40_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+       	   
+        ["140.7_co"] = "BR 140.7 Cromoxidgrün DB (1969)",		
+	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",
+        ["140.7_or"] = "BR 140.7 Orientrot DB AG (1987)",
+        ["140.7_vr"] = "BR 140.7 Verkehrsrot DB AG (1998)",	
+				
+		["e40_desc"] = "Die BR 140 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
+				
+        ["e41.0_bs"] = "E 41.0 Stahlblau DB (1957)",
+        ["e41.0_fg"] = "E 41.0 Flaschengrün DB (1958)",
+        ["e41.0_co"] = "E 41.0 Cromoxidgrün DB (1960)",
+        ["141.0_co"] = "BR 141.0 Cromoxidgrün DB (1968)",
+        ["141.0_ob"] = "BR 141.0 Ozeanblau/Beige DB (1978)",
+        ["141.0_or"] = "BR 140.0 Orientrot DB (1987)",
+        ["141.0_vr"] = "BR 140.0 Verkehrsrot DB AG (1998)",
+				
+        ["e41.1_co"] = "E 41.0 Cromoxidgrün DB (1960)",
+        ["141.1_co"] = "BR 141.0 Cromoxidgrün DB (1968)",
+        ["141.1_ob"] = "BR 141.0 Ozeanblau/Beige DB (1978)",
+        ["141.1_or"] = "BR 140.0 Orientrot DB (1987)",
+        ["141.1_vr"] = "BR 140.0 Verkehrsrot DB AG (1998)",
 		
+		["e41_desc"] = "Die BR 141 war die Einheitselektrolokomotive hauptsächlich gedacht für den Personenverkehrs auf Nebenbahnen und im Nahverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war aber vor allen leichten Zügen anzutreffen, sogar vor Güterzügen. Sie war die kleinste und leichteste Lokomotive innerhalb des Konzepts der elektrischen Einheitslokomotiven. ",
+		
+		
+        ["e50.0_fg"] = "E50.0 Flaschengrün DB (1957)",
+        ["e50.0_co"] = "E50.0 Cromoxidgrün DB (1960)",	
+        ["150.0_co"] = "BR 150.0 Cromoxidgrün DB (1968)",		
+        ["150.0_ob"] = "BR 150.0 Ozeanblau/Beige DB (1978)",	
+        ["150.0_or"] = "BR 150.0 Orientrot DB (1987)",
+        ["150.0_vr"] = "BR 150.0 Verkehrsrot DB AG (1998)",
+		
+        ["e50.1_co"] = "E50.1 Cromoxidgrün DB (1960)",	
+        ["150.1_co"] = "BR 150.1 Cromoxidgrün DB (1968)",		
+        ["150.1_ob"] = "BR 150.1 Ozeanblau/Beige DB (1978)",	
+        ["150.1_or"] = "BR 150.1 Orientrot DB (1987)",
+        ["150.1_vr"] = "BR 150.1 Verkehrsrot DB AG (1998)",
+		
+		["BR150_desc"] = "Die Baureihe BR 150 ist eine für die Deutsche Bundesbahn erstmals im Jahre 1957 gebaute Einheitselektrolokomotive für den schweren Güterverkehr.  Mit ihren drei-achsigen Drehgestellen war sie in der Lage schwere Güterzüge zu befördern, allerdings war oberhalb von 80 km/h der Verschleiß stark erhöht. ",
+					
 		["einfach_desc"] = " Variante mit Einfachlampe.",
 		["doppel_desc"] = " Variante mit Doppellampe.",
 		["led_desc"] = " Variante mit LED Lichter.",		
@@ -303,6 +342,12 @@ return {
 		["BR115"] = "BR 115",
 		["BR115_desc"] = "Seit 2005 wurden über dreißig 110 und 113 von DB Regio an die damalige DB AutoZug (heute verschmolzen auf die Muttergesellschaft DB Fernverkehr) abgegeben. Um diese Maschinen buchhalterisch besser trennen zu können, erhielten die betroffenen 110 seit 2006 nach und nach die neue Baureihenbezeichnung 115 und wurden nach Berlin-Rummelsburg umstationiert, sodass erstmals Maschinen dieser Bauart in Ostdeutschland beheimatet sind. Das klassische Einsatzfeld der Loks sind Autozüge, außerdem verrichten sie diverse Übergabedienste und sind teilweise vor Fernzügen, wie zum Beispiel auf der Linie Berlin–Warschau im Einsatz. Die BR 115 114-1 ist die momentan älteste im Einsatz befindliche E-Lok der DB mit knapp 62 Jahren.",
 		["BR115_vr"] = "Lackierung: verkehrsrot",
+
+		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
+		["e10_1_bs"] = "E 10.1 stahlblau (1957)",
+		["e10_2_bs"] = "E 10.2 stahlblau (1962)",
+        ["E10_1239"] = "E10 1239",
+        ["E10_1239_desc"] = "Anfang 1962 wurden 5 Loks in Lackierung für den Rheingold abgeliefert. Bis Ende 1962 wurden diese in das allgemeine stahlblau umlackiert, weil Loks der BR 110.3 zur Verfügung standen. Lackierung: kobaltblau/beige",
 
 		["e40_0_fg"] = "E 40.0 flaschengrün (1957)",
 		["e40_1_fg"] = "E 40.1 chromoxidgrün (1964)",
