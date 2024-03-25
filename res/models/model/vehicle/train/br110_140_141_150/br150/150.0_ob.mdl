@@ -206,12 +206,6 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/fenster_modern_1_lod0.msh",
-						name = "MSH_e10_fenster_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_zs_dose_modern_ohne_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
@@ -249,19 +243,19 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/front_tritt_durchgehend_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/tritt_vorne_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/front_griffstange_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/griffe_front_seitlich_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/griffe_tuer_modern_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/griffe_tuer_alt_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -273,7 +267,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_1_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_1_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
