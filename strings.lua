@@ -275,7 +275,9 @@ return {
         ["140.1_ebm"] = "BR 140.1 EBM Cargo (2012)",
        	   
         ["140.7_co"] = "BR 140.7 Cromoxidgrün DB (1969)",		
-	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",
+	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
+	    ["140.7_ob2"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
+	    ["140.7_ob3"] = "BR 140.7 Ozeanblau/Beige DB AG (1994)",
         ["140.7_or"] = "BR 140.7 Orientrot DB AG (1987)",
         ["140.7_vr"] = "BR 140.7 Verkehrsrot DB AG (1998)",	
 				
@@ -301,7 +303,9 @@ return {
         ["e50.0_fg"] = "E50.0 Flaschengrün DB (1957)",
         ["e50.0_co"] = "E50.0 Cromoxidgrün DB (1960)",	
         ["150.0_co"] = "BR 150.0 Cromoxidgrün DB (1968)",		
-        ["150.0_ob"] = "BR 150.0 Ozeanblau/Beige DB (1978)",	
+        ["150.0_ob"] = "BR 150.0 Ozeanblau/Beige DB (1978)",		
+        ["150.0_ob2"] = "BR 150.0 Ozeanblau/Beige DB Keks Himbeerrot (1987)",			
+        ["150.0_ob3"] = "BR 150.0 Ozeanblau/Beige DB AG (1994)",		
         ["150.0_or"] = "BR 150.0 Orientrot DB (1987)",
         ["150.0_vr"] = "BR 150.0 Verkehrsrot DB AG (1998)",
 		
@@ -318,9 +322,9 @@ return {
 		["led_desc"] = " Variante mit LED Lichter.",		
 		["wende_desc"] = " Variante mit Doppellampe und Wendezugsteurung.",
 		["wende2_desc"] = " Variante mit LED Lichter und Wendezugsteurung.",
-		["verschleiß_desc"] = " Variante mit Doppellampe, Verschleißpufferbohle und Wendezugsteurung.",
-		["verschleiß2_desc"] = " Variante mit LED Lichter, Verschleißpufferbohle und Wendezugsteurung.",
-		["verschleiß3_desc"] = " Variante mit Doppellampe und Verschleißpufferbohle.",
+		["verschleiss_desc"] = " Variante mit Doppellampe, Verschleißpufferbohle und Wendezugsteurung.",
+		["verschleiss2_desc"] = " Variante mit LED Lichter, Verschleißpufferbohle und Wendezugsteurung.",
+		["verschleiss3_desc"] = " Variante mit Doppellampe und Verschleißpufferbohle.",
 		["cakv_desc"] = " Variante mit Doppellampe, Wendezugsteurung und Cakv 69 Kupplung.",
 		["rk900_desc"] = " Variante mit Doppellampe und RK 900.",
 		
