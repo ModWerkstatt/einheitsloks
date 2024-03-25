@@ -276,9 +276,14 @@ return {
        	   
         ["140.7_co"] = "BR 140.7 Cromoxidgrün DB (1969)",		
 	    ["140.7_ob"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
-	    ["140.7_ob2"] = "BR 140.7 Ozeanblau/Beige DB (1978)",	
+	    ["140.7_ob2"] = "BR 140.7 Ozeanblau/Beige 2 DB (1978)",	
 	    ["140.7_ob3"] = "BR 140.7 Ozeanblau/Beige DB AG (1994)",
-        ["140.7_or"] = "BR 140.7 Orientrot DB AG (1987)",
+        ["140.7_or"] = "BR 140.7 Orientrot DB (1987)",
+        ["140.7_or2"] = "BR 140.7 Orientrot 2 DB (1987)",
+        ["140.7_or3"] = "BR 140.7 Orientrot DB AG (1994)",
+        ["140.7_or4"] = "BR 140.7 Orientrot 2 DB AG (1994)",
+        ["140.7_or4"] = "BR 140.7 Orientrot DB mit Cakv 69(1994)",
+        ["140.7_or4"] = "BR 140.7 Orientrot DB AG  mit Cakv 69 (1994)",
         ["140.7_vr"] = "BR 140.7 Verkehrsrot DB AG (1998)",	
 				
 		["e40_desc"] = "Die BR 140 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
