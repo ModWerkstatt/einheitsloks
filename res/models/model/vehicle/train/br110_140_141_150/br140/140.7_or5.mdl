@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 8.2445, 1.62946, 5.91, },
-		bbMin = { -8.2445, -1.62946, -0.12558, },
+		bbMax = { 8.35, 1.62946, 5.91, },
+		bbMin = { -8.35, -1.62946, -0.12558, },
 	},
 	collider = {
 		params = { },
@@ -284,6 +284,18 @@ return {
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_klatte_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/cakv69/cakv69.mtl", },
+						mesh = "vehicle/train/cakv69/cakv69_lod0.msh",
+						name = "",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.47, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/cakv69/cakv69.mtl", },
+						mesh = "vehicle/train/cakv69/cakv69_lod0.msh",
+						name = "",
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.47, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
