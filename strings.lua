@@ -319,8 +319,10 @@ return {
         ["150.0_ob"] = "BR 150.0 Ozeanblau/Beige DB (1978)",		
         ["150.0_ob2"] = "BR 150.0 Ozeanblau/Beige DB Keks Himbeerrot (1987)",			
         ["150.0_ob3"] = "BR 150.0 Ozeanblau/Beige DB AG (1994)",		
-        ["150.0_or"] = "BR 150.0 Orientrot DB (1987)",
-        ["150.0_vr"] = "BR 150.0 Verkehrsrot DB AG (1998)",
+        ["150.0_or"] = "BR 150.0 Orientrot DB (1987)",	
+        ["150.0_or2"] = "BR 150.0 Orientrot 2 DB (1987)",	
+        ["150.0_or3"] = "BR 150.0 Orientrot DB AG (1994)",	
+        ["150.0_or4"] = "BR 150.0 Orientrot 2 DB AG (1994)",
 		
         ["e50.1_co"] = "E50.1 Cromoxidgrün DB (1960)",	
         ["150.1_co"] = "BR 150.1 Cromoxidgrün DB (1968)",		
