@@ -21,7 +21,7 @@ return {
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br150/beweglich_ob_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br150/beweglich_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {
@@ -34,11 +34,11 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br150/beweglich_ob_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br150/beweglich_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br150/beweglich_ob_normal.dds",
+			fileName = "models/vehicle/train/br150/beweglich_normal.dds",
 			redGreen = true,
 			type = "TWOD",
 		},

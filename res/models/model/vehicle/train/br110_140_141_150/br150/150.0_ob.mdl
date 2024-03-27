@@ -213,7 +213,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/lampe_doppel_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/lampe_einzel_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
