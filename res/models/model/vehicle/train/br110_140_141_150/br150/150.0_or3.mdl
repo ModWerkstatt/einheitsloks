@@ -255,7 +255,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_or2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/griffe_tuer_alt_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/griffe_tuer_modern_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
