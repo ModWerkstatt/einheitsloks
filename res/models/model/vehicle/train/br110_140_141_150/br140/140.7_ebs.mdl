@@ -795,7 +795,7 @@ return {
 			br140 = true,
 			br141 = false,
 			br150 = false,
-			privatbahn = false,
+			privatbahn = true,
 		},
 	},
 	version = 1,
