@@ -244,6 +244,7 @@ return {
         ["e40.0_co"] = "E40.0 Cromoxidgrün DB (1960)",
         ["140.0_co"] = "BR 140.0 Cromoxidgrün DB (1968)",
         ["140.0_co2"] = "BR 140.0 Cromoxidgrün 2 DB (1968)",
+        ["140.0_co3"] = "BR 140.0 Cromoxidgrün DB AG (1994)",
         ["140.0_ob"] = "BR 140.0 Ozeanblau/Beige DB (1978)",
         ["140.0_ob2"] = "BR 140.0 Ozeanblau/Beige DB AG (1994)",
         ["140.0_ob3"] = "BR 140.0 Ozeanblau/Beige 2 DB (1978)",
@@ -326,7 +327,10 @@ return {
 		
         ["e50.1_co"] = "E50.1 Cromoxidgrün DB (1960)",	
         ["150.1_co"] = "BR 150.1 Cromoxidgrün DB (1968)",		
-        ["150.1_ob"] = "BR 150.1 Ozeanblau/Beige DB (1978)",	
+        ["150.1_ob"] = "BR 150.1 Ozeanblau/Beige DB (1978)",		
+        ["150.1_ob2"] = "BR 150.1 Ozeanblau/Beige 2 DB (1978)",		
+        ["150.1_ob3"] = "BR 150.1 Ozeanblau/Beige DB AG (1994)",		
+        ["150.1_ob4"] = "BR 150.1 Ozeanblau/Beige 2 DB AG (1994)",	
         ["150.1_or"] = "BR 150.1 Orientrot DB (1987)",
         ["150.1_vr"] = "BR 150.1 Verkehrsrot DB AG (1998)",
 		
