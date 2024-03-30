@@ -277,14 +277,12 @@ return {
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
---[[
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-]]
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/glas_fenster_modern_2_lod0.msh",
