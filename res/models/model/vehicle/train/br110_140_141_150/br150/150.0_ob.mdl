@@ -315,19 +315,18 @@ return {
 			visibleFrom = 0,
 			visibleTo = 100,
 		},
---[[
 		{
 			node = {
 				children = {
 					{
 						materials = { "vehicle/train/br150/150.0_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_br110_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_1_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/pufferbohle_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -537,7 +536,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -560,13 +559,13 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br150/150.0_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_br110_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_1_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/pufferbohle_lod2.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -716,7 +715,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -728,7 +727,6 @@ return {
 			visibleFrom = 300,
 			visibleTo = 1400,
 		},
-]]
 	},
 	metadata = {
 		availability = {
