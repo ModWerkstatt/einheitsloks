@@ -15,7 +15,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br150/150.0_ob3.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_1_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -267,13 +267,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_2_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/fenster_modern_2_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -285,7 +285,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/glas_fenster_modern_1_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/glas_fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -315,19 +315,18 @@ return {
 			visibleFrom = 0,
 			visibleTo = 100,
 		},
---[[
 		{
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.0_ob3.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_br110_lod1.msh",
+						materials = { "vehicle/train/br150/150.0_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/pufferbohle_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -389,7 +388,7 @@ return {
 							},
 						},
 						name = "bogie_2",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.846, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.846, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
@@ -488,56 +487,50 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br150/150.0_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br150/dach_eckig_lod1.msh",
+						name = "MSH_e10_trittrost_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/fenster_lod0.msh",
 						name = "MSH_e10_fenster_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/lampe_einzel_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/puffer_eckig_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/puffer_rund_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/lampe_oben_alt_lod1.msh",
 						name = "MSH_110_stirnlampe1_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_fensterrahmen_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/griffe_tuer_modern_lod1.msh",
-						name = "MSH_e10_frontstange_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/front_tritt_durchgehend_lod1.msh",
-						name = "MSH_e10_trittrost_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -559,14 +552,14 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.0_ob3.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_br110_lod2.msh",
+						materials = { "vehicle/train/br150/150.0_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/pufferbohle_lod2.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -628,7 +621,7 @@ return {
 							},
 						},
 						name = "bogie_2",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.846, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.846, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
@@ -703,20 +696,26 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.815, 0, 4, 1, },
 					},
 					{
+						materials = { "vehicle/train/br150/150.0_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br150/dach_lod2.msh",
+						name = "MSH_e10_trittrost_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/puffer_eckig_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/puffer_rund_lod2.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -728,7 +727,6 @@ return {
 			visibleFrom = 300,
 			visibleTo = 1400,
 		},
-]]
 	},
 	metadata = {
 		availability = {
@@ -762,7 +760,6 @@ return {
 					innerBackwardParts = { 23, 24, },
 					innerForwardParts = { 21, 22, },
 				},
---[[
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh", },
 					backBackwardParts = { 15, 16, 30, },
@@ -781,7 +778,6 @@ return {
 					innerBackwardParts = { 23, 24, },
 					innerForwardParts = { 21, 22, },
 				},
-]]
 			},
 			engines = {
 				{
