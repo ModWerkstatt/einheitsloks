@@ -207,7 +207,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_zs_dose_modern_ohne_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/unterbau_zs_dose_modern_mit_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
