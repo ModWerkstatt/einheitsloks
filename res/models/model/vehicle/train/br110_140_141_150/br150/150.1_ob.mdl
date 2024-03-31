@@ -518,7 +518,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -709,7 +709,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
