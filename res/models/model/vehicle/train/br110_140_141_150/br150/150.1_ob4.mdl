@@ -14,7 +14,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -194,7 +194,7 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/dach_eckig_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -224,13 +224,13 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/regenrinne_front_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/regenrinne_seite_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -243,13 +243,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/tritt_vorne_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/front_tritt_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/griffe_front_seitlich_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/front_griffstange_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -319,7 +319,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -487,7 +487,7 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/dach_eckig_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -518,7 +518,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -552,7 +552,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -696,7 +696,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.815, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/dach_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -709,7 +709,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_150_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_klatte_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -731,7 +731,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br150/150.1_ob2.mtl", },
+						materials = { "vehicle/train/br150/150.1_ob4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/rumpf_lod3.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -807,14 +807,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1978,
-			yearTo = 1994,
+			yearFrom = 1994,
+			yearTo = 2003,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("150.1_ob2"),
+			name = _("150.1_ob4"),
 			description = _("e50_desc") .. _("doppel_desc"),
 		},
 		emission = {
