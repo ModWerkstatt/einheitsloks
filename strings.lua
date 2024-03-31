@@ -226,7 +226,7 @@ return {
         ["139.2_or"] = "BR 139.2 Orientrot DB (1987)",
         ["139.2_or2"] = "BR 139.2 Orientrot DB AG (1994)",
         ["139.2_vr"] = "BR 139.2 Verkehrsrot DB AG (1998)",
-        ["139.2_vr2"] = "BR 139.2 Verkehrsrot DB AG mit Einholm SA (1998)",
+        ["139.2_vr2"] = "BR 139.2 Verkehrsrot 2 DB AG (1998)",
         ["139.2_vr3"] = "BR 139.2 Verkehrsrot DB AG Cargo mit Fernlicht (1998)",
         ["139.2_vr4"] = "BR 139.2 Verkehrsrot DB AG Cargo (1998)",		
         ["139.2_radve"] = "BR 139.2 Raildaventure 139 558 (2012)",
