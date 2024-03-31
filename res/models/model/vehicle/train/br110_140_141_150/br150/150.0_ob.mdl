@@ -740,7 +740,7 @@ return {
 						children = {
 							{
 								materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-								mesh = "vehicle/train/br110_140_141_150/br150/drehgestell_lod2.msh",
+								mesh = "vehicle/train/br110_140_141_150/br150/drehgestell_lod3.msh",
 								name = "MSH_drehgestell_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
@@ -770,7 +770,7 @@ return {
 						children = {
 							{
 								materials = { "vehicle/train/br150/unterbau_ob.mtl", },
-								mesh = "vehicle/train/br110_140_141_150/br150/drehgestell_lod2.msh",
+								mesh = "vehicle/train/br110_140_141_150/br150/drehgestell_lod3.msh",
 								name = "MSH_drehgestell_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
