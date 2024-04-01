@@ -260,6 +260,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br150/150.1_or6.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br150/front_lufteinlass_lod0.msh",
+						name = "MSH_e10_frontstange_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/allgemein_or.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/is_dose_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
