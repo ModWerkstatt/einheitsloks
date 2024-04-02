@@ -269,7 +269,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_schwaiger_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_klatte_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},

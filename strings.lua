@@ -214,11 +214,15 @@ return {
 		
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
         		
+        ["139.1_co"] = 		"BR 139.1 Cromoxidgrün DB (1968)",
+        ["139.1_co2"] = 	"BR 139.1 Cromoxidgrün 2 DB (1968)",
         ["139.1_ob"] = 		"BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = 	"BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = 		"BR 139.1 Verkehrsrot DB (1998)",
 		
         ["e40.11_co"] = 	"E40.11 Cromoxidgrün DB (1961)",
+        ["139.2_co"] = 		"BR 139.2 Cromoxidgrün DB (1968)",
+        ["139.2_co2"] = 	"BR 139.2 Cromoxidgrün 2 DB (1968)",
         ["139.2_ob"] = 		"BR 139.2 Ozeanblau/Beige DB (1978)",
         ["139.2_ob2"] = 	"BR 139.2 Ozeanblau/Beige DB AG (1994)",
         ["139.2_ob3"] = 	"BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
@@ -256,6 +260,11 @@ return {
         ["140.0_vr"] = 		"BR 140.0 Verkehrsrot DB AG (1998)",
 				
         ["e40.1_co"] = 		"E40.1 Cromoxidgrün DB (1960)",		
+        ["140.1_co"] = 		"BR 140.1 Cromoxidgrün DB (1968)",	
+        ["140.1_co2"] = 	"BR 140.1 Cromoxidgrün 2 DB (1968)",	
+        ["140.1_co3"] = 	"BR 140.1 Cromoxidgrün DB Keks Himbeerrot (1987)",	
+        ["140.1_co4"] = 	"BR 140.1 Cromoxidgrün 3 DB (1968)",	
+        ["140.1_co5"] = 	"BR 140.1 Cromoxidgrün DB AG (1994)",	
         ["140.1_ob"] = 		"BR 140.1 Ozeanblau/Beige DB (1978)",	
         ["140.1_ob2"] = 	"BR 140.1 Ozeanblau/Beige 2 DB (1978)",	
         ["140.1_ob3"] = 	"BR 140.1 Ozeanblau/Beige 3 DB (1978)",	
@@ -275,7 +284,9 @@ return {
         ["140.1_vr6"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",			
         ["140.1_ebm"] = 	"BR 140.1 EBM Cargo (2012)",
        	   
-        ["140.7_co"] = 		"BR 140.7 Cromoxidgrün DB (1969)",		
+        ["140.7_co"] = 		"BR 140.7 Cromoxidgrün DB (1969)",	
+        ["140.7_co2"] = 	"BR 140.7 Cromoxidgrün DB (1969)",
+        ["140.7_co3"] = 	"BR 140.7 Cromoxidgrün DB (1994)",	
 	    ["140.7_ob"] = 		"BR 140.7 Ozeanblau/Beige DB (1978)",	
 	    ["140.7_ob2"] = 	"BR 140.7 Ozeanblau/Beige 2 DB (1978)",	
 	    ["140.7_ob3"] = 	"BR 140.7 Ozeanblau/Beige DB AG (1994)",

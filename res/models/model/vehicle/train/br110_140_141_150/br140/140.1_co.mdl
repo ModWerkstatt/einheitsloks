@@ -190,19 +190,19 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/antenne_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_doppel_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau_zs_dose_alt_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -214,7 +214,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_oben_neu_lod0.msh",
 						name = "MSH_110_stirnlampe1_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -226,49 +226,49 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/antenne_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/is_dose_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/dbkeks_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/front_tritt_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/front_griffstange_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/griffe_tuer_alt_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", "vehicle/train/br140/140.1_co.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", "vehicle/train/br140/140.1_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_ddl_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -467,13 +467,13 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_doppel_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_oben_alt_lod1.msh",
 						name = "MSH_110_stirnlampe1_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -485,7 +485,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_ddl_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -666,7 +666,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_schwaiger_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -755,7 +755,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1978,
+			yearFrom = 1968,
 			yearTo = 1994,
 		},
 		cost = {
