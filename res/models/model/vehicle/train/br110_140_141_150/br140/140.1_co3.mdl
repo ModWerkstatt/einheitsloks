@@ -827,7 +827,7 @@ return {
 				},
 			},
 			soundSet = { name = "br140", },
-			topSpeed = 30.5556,
+			topSpeed = 27.777777778,
 			weight = 83,
 		},
 		seatProvider = {
