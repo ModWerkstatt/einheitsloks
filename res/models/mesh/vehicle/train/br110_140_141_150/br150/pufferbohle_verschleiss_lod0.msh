@@ -4,40 +4,20 @@ return {
 		{
 			indices = {
 				normal = {
-					count = 93240,
-					offset = 1675264,
+					count = 163536,
+					offset = 1815856,
 				},
 				position = {
-					count = 93240,
+					count = 163536,
 					offset = 1488784,
 				},
 				tangent = {
-					count = 93240,
-					offset = 1768504,
+					count = 163536,
+					offset = 1979392,
 				},
 				uv0 = {
-					count = 93240,
-					offset = 1582024,
-				},
-			},
-		},
-		{
-			indices = {
-				normal = {
-					count = 70296,
-					offset = 2002336,
-				},
-				position = {
-					count = 70296,
-					offset = 1861744,
-				},
-				tangent = {
-					count = 70296,
-					offset = 2072632,
-				},
-				uv0 = {
-					count = 70296,
-					offset = 1932040,
+					count = 163536,
+					offset = 1652320,
 				},
 			},
 		},
