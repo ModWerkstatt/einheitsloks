@@ -38,7 +38,7 @@ return {
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br110/rumpf_1_normal.dds",
+			fileName = "models/vehicle/train/br110/rumpf_1_ob_normal.dds",
 			redGreen = true,
 			type = "TWOD",
 		},
