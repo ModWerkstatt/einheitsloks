@@ -20,7 +20,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br150/unterbau_co.mtl", },
+						materials = { "vehicle/train/br150/unterbau_co.mtl", "vehicle/train/br150/unterbau_or.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br150/pufferbohle_verschleiss_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
