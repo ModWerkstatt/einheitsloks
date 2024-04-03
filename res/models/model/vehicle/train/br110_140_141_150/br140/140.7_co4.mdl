@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 8.2445, 1.62946, 5.91, },
-		bbMin = { -8.2445, -1.62946, -0.12558, },
+		bbMax = { 8.35, 1.62946, 5.91, },
+		bbMin = { -8.35, -1.62946, -0.12558, },
 	},
 	collider = {
 		params = { },
@@ -14,14 +14,14 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_bs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau verschleiss_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/unterbau_cakv_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -220,7 +220,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/regenrinne_seite_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -262,7 +262,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -274,16 +274,16 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/heimatschilder_140_lod0.msh",
-						name = "MSH_110_gusskeks_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						materials = { "vehicle/train/cakv69/cakv69.mtl", },
+						mesh = "vehicle/train/cakv69/cakv69_lod0.msh",
+						name = "",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.47, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/fabrikschilder_lod0.msh",
-						name = "MSH_110_gusskeks_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						materials = { "vehicle/train/cakv69/cakv69.mtl", },
+						mesh = "vehicle/train/cakv69/cakv69_lod0.msh",
+						name = "",
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.47, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
@@ -321,7 +321,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_lod1.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -550,7 +550,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -713,7 +713,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br140/140.7_co.mtl", },
+						materials = { "vehicle/train/br140/140.7_co4.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_lod3.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -780,14 +780,14 @@ return {
 	metadata = {
 		availability = {
 			yearFrom = 1969,
-			yearTo = 1987,
+			yearTo = 1994,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("140.7_co"),
-			description = _("e40_desc") .. _("verschleiss_desc"),
+			name = _("140.7_co4"),
+			description = _("e40_desc") .. _("cakv_desc"),
 		},
 		emission = {
 			idleEmission = -1,
