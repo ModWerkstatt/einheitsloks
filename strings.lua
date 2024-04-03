@@ -287,7 +287,7 @@ return {
         ["140.7_co"] = 		"BR 140.7 Cromoxidgrün DB (1969)",	
         ["140.7_co2"] = 	"BR 140.7 Cromoxidgrün 2 DB (1969)",
         ["140.7_co3"] = 	"BR 140.7 Cromoxidgrün DB AG (1994)",	
-        ["140.7_co4"] = 	"BR 140.7 Cromoxidgrün DB mit Cakv(1969)",	
+        ["140.7_co4"] = 	"BR 140.7 Cromoxidgrün DB mit Cakv (1969)",	
 	    ["140.7_ob"] = 		"BR 140.7 Ozeanblau/Beige DB (1978)",	
 	    ["140.7_ob2"] = 	"BR 140.7 Ozeanblau/Beige 2 DB (1978)",	
 	    ["140.7_ob3"] = 	"BR 140.7 Ozeanblau/Beige DB AG (1994)",
