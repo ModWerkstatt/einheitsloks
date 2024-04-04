@@ -190,6 +190,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br141/141.0_ob.mtl",  },
+						mesh = "vehicle/train/br110_140_141_150/br141/dach_oelkuehler_lod0.msh",
+						name = "MSH_110.1_rumpfrinne_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/antenne_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
@@ -211,12 +217,6 @@ return {
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/lampe_einzel_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/is_dose_lod0.msh",
-						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
@@ -251,25 +251,25 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/tritt_vorne_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/is_dose_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/griffe_front_seitlich_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/front_tritt_durchgehend_lod0.msh",
+						name = "MSH_110_innen_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br141/front_griffstange_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/griffe_tuer_alt_lod0.msh",
-						name = "MSH_e10_frontstange_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/is_dose_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -474,6 +474,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br141/unterbau_ob.mtl", "vehicle/train/br141/141.0_ob.mtl",  },
+						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod1.msh",
+						name = "MSH_110.1_rumpfrinne_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/lampe_einzel_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
@@ -493,7 +499,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/luefter_schwaiger_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/luefter_klatte_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -668,7 +674,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/luefter_schwaiger_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/luefter_klatte_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -757,7 +763,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1978,
+			yearFrom = 1987,
 			yearTo = 1994,
 		},
 		cost = {
@@ -765,7 +771,7 @@ return {
 		},
 		description = {
 			name = _("141.0_ob"),
-			description = _("e41_desc") .. _("einfach_desc"),
+			description = _("e41_desc") .. _("einfach2_desc"),
 		},
 		emission = {
 			idleEmission = -1,
