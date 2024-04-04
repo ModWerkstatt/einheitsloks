@@ -14,7 +14,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -184,8 +184,8 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co4.mtl",  },
-						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod0.msh",
+						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co6.mtl",  },
+						mesh = "vehicle/train/br110_140_141_150/br141/dach_ebremse_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -226,19 +226,19 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/kws_kabel_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_seite_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_front_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -304,7 +304,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod1.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -468,7 +468,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co4.mtl",  },
+						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co6.mtl",  },
 						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -527,7 +527,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -690,7 +690,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co6.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_br140_lod3.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -757,14 +757,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1968,
+			yearFrom = 1972,
 			yearTo = 1994,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("141.1_co4"),
+			name = _("141.1_co6"),
 			description = _("e41_desc") .. _("einfach2_desc"),
 		},
 		emission = {
@@ -820,7 +820,7 @@ return {
 			},
 			soundSet = { name = "br141", },
 			topSpeed = 33.3333,
-			weight = 66,
+			weight = 72,
 		},
 		seatProvider = {
 			drivingLicense = "RAIL",

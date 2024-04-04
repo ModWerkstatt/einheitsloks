@@ -14,7 +14,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -184,7 +184,7 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co4.mtl",  },
+						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co5.mtl",  },
 						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -226,19 +226,19 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/kws_kabel_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_seite_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_front_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -251,13 +251,13 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/front_tritt_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/tritt_vorne_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/front_griffstange_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/griffe_front_seitlich_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -304,7 +304,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod1.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -468,7 +468,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co4.mtl",  },
+						materials = { "vehicle/train/br141/unterbau_co.mtl", "vehicle/train/br141/141.1_co5.mtl",  },
 						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -527,7 +527,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -690,7 +690,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br141/141.1_co4.mtl", },
+						materials = { "vehicle/train/br141/141.1_co5.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/rumpf_br140_lod3.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -764,7 +764,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("141.1_co4"),
+			name = _("141.1_co5"),
 			description = _("e41_desc") .. _("einfach2_desc"),
 		},
 		emission = {

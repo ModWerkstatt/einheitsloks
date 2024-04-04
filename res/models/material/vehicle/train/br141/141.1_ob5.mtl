@@ -17,7 +17,7 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br141/rumpf_1_or_albedo.dds",
+			fileName = "models/vehicle/train/br141/rumpf_1_ob5_albedo.dds",
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
@@ -34,7 +34,7 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br141/rumpf_1_or_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br141/rumpf_1_ob5_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		map_normal = {
