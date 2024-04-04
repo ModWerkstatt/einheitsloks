@@ -328,6 +328,10 @@ return {
 				
         ["e41.1_co"] = 		"E 41.1 Cromoxidgrün DB (1960)",
         ["141.1_co"] = 		"BR 141.1 Cromoxidgrün DB (1968)",
+        ["141.1_co2"] = 	"BR 141.1 Cromoxidgrün 2 DB (1968)",
+        ["141.1_co3"] = 	"BR 141.1 Cromoxidgrün DB AG (1994)",
+        ["141.1_co4"] = 	"BR 141.1 Cromoxidgrün DB (1968)",
+        ["141.1_co5"] = 	"BR 141.1 Cromoxidgrün DB (1968)",
         ["141.1_ob"] = 		"BR 141.1 Ozeanblau/Beige DB (1978)",
         ["141.1_or"] = 		"BR 140.1 Orientrot DB (1987)",
         ["141.1_vr"] = 		"BR 140.1 Verkehrsrot DB AG (1998)",
