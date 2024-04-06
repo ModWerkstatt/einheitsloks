@@ -3,13 +3,20 @@ return {
 	en = {
 		["mod_name"] = "DB Class 110 | 140 | 141 | 150",
 		["mod_desc"] = "The german standard electric locomotive (in german called \"Einheits-Elektromotiven\") of the Deutschen Bundesbahn and later DB AG consisting of the classes 110.1 and 110.2, 140.1 and 140.2, 141 and 150. They had been constructed to cover all need from light passenger services (BR 141) to the freight services (BR 140) as well as the heavy freight services (BR 150) up to the express train locomotive (BR 110). All four classes were designed to share as many components as possible. In service for many years they have been the backbone of german railroad service, some engines are in still in service.\n\nNOTE:\nThe locomotives were built in 2014 for Train Fever and slightly revised in 2018 for Transport Fever and converted in 2020 for Transport Fever 2. However, the locomotives no longer meet the quality requirements and only this package only serves as filler until a new build of them is available. This will take a while considering the number of engines",
-        		
+
+        ["br110.1_menu"] = "Class 110.1 / 110.2",
+        ["br110.3_menu"] = "Class 110.3 / 115.3",
+        ["br139_menu"] = "Class 139.1 / 139.2",
+        ["br140_menu"] = "Class 140.0 / 140.1 / 140.7",
+        ["br141_menu"] = "Class 141.0 / 141.1",
+        ["br150_menu"] = "Class 150.0 / 150.1",
+
         ["Vorspann_br193"] = "Active lead engines?",
         ["option_vorspann_br193_desc"] = "Active the lead engines (with front panto raised)?",
-		
+
         ["Fake_br193"] = "Active fake engines?",
         ["option_fake_br193_desc"] = "Active the fake engines (pantos down, no light, no driver)?",
-		
+
 		["Ms_br193"] = "Activate Vectron class 193 multi-system?",
 		["option_ms_br193_desc"] = "Should the Vectron class 193 be activated for the multi-system (pantos down, no light, no driver)?",
 		["Ac_br193"] = "Activate Vectron class 193 AC system?",
@@ -24,11 +31,12 @@ return {
 		["option_osteuropa_br193_desc"] = "Should the Vectron class 193 be activated with Eastern European equipment (pantos down, no lights, no driver)?",
 		["skandinavien_br193"] = "Activate Smartron Vectron class 193 with Scandinavia equipment?",
 		["option_skandinavien_br193_desc"] = "Should the Vectron class 193 be activated with Scandinavian equipment (pantos down, no lights, no driver)?",
-		
-		
-		
-		
+
+
+
+
 		["br110_name"] = "Class 110",
+        ["br139_name"] = "Class 139",
         ["br140_name"] = "Class 140",
         ["br141_name"] = "Class 141",
         ["br150_name"] = "Class 150",
@@ -135,8 +143,9 @@ return {
 		["mod_name"] = "DB BR 110 | BR 140 | BR 141 | BR 150 (\"Einheitsloks\")",
 		["mod_desc"] = "Die Einheits-Elektrolokomotiven der Deutschen Bundesbahn und später Deutschen Bahn AG mit den Baureihen 110.1, 110.2 und 110.3, 139.1 und 139.2, 140.1, 140.2 und 140.7, 141.0 und 141.1, 150.0 und 150.1. Gemeinsam decken sie alle Einsatzgebiete ab vom Nahverkehr (BR 139, BR 141) über den Güterverkehr (BR 139, BR 140) und schweren Güterverkehr (BR 150) bis zum Schnellzugeinsatz (BR 110). Alle Baureihen sollten sich möglichst viele Komponenten teilen, um Wartungskosten zu sparen. Viele Jahre lang waren diese Lokomotiven das Rückgrat des Eisenbahnverkehrs in Deutschland und stehen vereinzelt noch bis heute im Dienst bei Privatbahnen.",
 
-        ["br110.1_menu"] = "BR 110.1 / 110.2 / 139.1 / 139.2",
+        ["br110.1_menu"] = "BR 110.1 / 110.2",
         ["br110.3_menu"] = "BR 110.3 / 115.3",
+        ["br139_menu"] = "BR 139.1 / 139.2",
         ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
         ["br141_menu"] = "BR 141.0 / 141.1",
         ["br150_menu"] = "BR 150.0 / 150.1",
@@ -149,22 +158,22 @@ return {
 
 		["einheitsloks_br110"] = "BR 110.1 / BR 110.2 / BR 115.1 / BR 115.2 aktivieren?",
 		["option_einheitsloks_br110_desc"] = "Soll die BR 110.1 / BR 110.2/ BR 115.1 /BR 115.2 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_br110_3"] = "BR 110.3 / BR 115.3 aktivieren?",
 		["option_einheitsloks_br110_3_desc"] = "Soll die BR 110.3 / BR 115.3 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_br139"] = "BR 139.1 / BR 139.2 aktivieren?",
 		["option_einheitsloks_br139_desc"] = "Soll die BR 139.1 / BR 139.2 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_br140"] = " BR 140.1 / BR 141.1 / BR 140.7 aktivieren?",
 		["option_einheitsloks_br140_desc"] = "Soll die BR 140.1 / BR 141.1 / BR 140.7 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_br141"] = "BR 141.0 / BR 141.1 aktivieren?",
 		["option_einheitsloks_br141_desc"] = "Soll die BR 141.0 / BR 141.1 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_br150"] = "BR 150.0 / BR 150.1 aktivieren?",
 		["option_einheitsloks_br150_desc"] = "Soll die BR 150.0 / BR 150.1 im Spiel aktiviert werden?",
-		
+
 		["einheitsloks_privatbahn"] = "Privatbahn Lackierungen aktivieren?",
 		["option_einheitsloks_br150_desc"] = "Soll die Lackierungen der Privatbahnen im Spiel aktiviert werden?",
 
@@ -172,7 +181,7 @@ return {
         ["110.1_bs"] = 		"BR 110.1 Stahlblau DB (1968)",
         ["110.1_bs2"] = 	"BR 110.1 Stahlblau 2 DB (1968)",
         ["110.1_bs3"] = 	"BR 110.1 Stahlblau DB Keks Orientrot (1987)",
-        ["110.1_bs4"] = 	"BR 110.1 Stahlblau DB AG (1994)",			
+        ["110.1_bs4"] = 	"BR 110.1 Stahlblau DB AG (1994)",
         ["110.1_ob"] = 		"BR 110.1 Ozeanblau/Beige DB (1978)",
         ["110.1_ob2"] = 	"BR 110.1 Ozeanblau/Beige DB AG (1994)",
         ["110.1_or"] = 		"BR 110.1 Orientrot DB (1987)",
@@ -184,11 +193,11 @@ return {
         ["110.1_eu"] = 		"BR 110.1 Purpurrot/Beige Euro Express (2017)",
         ["110.1_tri"] = 	"BR 110.1 Orientrot TRI (2023)",
         ["e10.12_rheingold"] = "E10.12 Stahlblau/Beige DB Rheingold (1962)",
-						
+
         ["e10.2_bs"] = 		"E10.2 Stahlblau DB (1960)",
         ["110.2_bs"] = 		"BR 110.2 Stahlblau DB (1968)",
         ["110.2_bs2"] = 	"BR 110.2 Stahlblau 2 DB (1968)",
-        ["110.2_bs3"] = 	"BR 110.2 Stahlblau DB AG (1994)",		
+        ["110.2_bs3"] = 	"BR 110.2 Stahlblau DB AG (1994)",
         ["110.2_ob"] = 		"BR 110.2 Ozeanblau/Beige DB (1978)",
         ["110.2_ob2"] =		"BR 110.2 Ozeanblau/Beige 2 DB (1978)",
         ["110.2_ob3"] = 	"BR 110.2 Ozeanblau/Beige DB AG (1994)",
@@ -201,38 +210,38 @@ return {
         ["110.2_vr2"] = 	"BR 110.2 Verkehrsrot DB AG 3-Löwen-Takt (1998)",
         ["110.2_vr3"] = 	"BR 115.2 Verkehrsrot DB AG (1998)",
         ["110.2_vr4"] = 	"BR 110.2 Verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
-        ["110.2_press"] = 	"BR 110.1 Ozeanblau/Beige PRESS (2023)",				
-        ["110.2_dessau"] = 	"BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",		
+        ["110.2_press"] = 	"BR 110.1 Ozeanblau/Beige PRESS (2023)",
+        ["110.2_dessau"] = 	"BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",
         ["e10.2_rheingold"] = "E10.2 Stahlblau/Beige DB Rheingold (1962)",
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
-		
+
 		["e10.3_bs"] = 		"E10.3 Stahlblau DB (1960)",
-        ["110.3_bs"] = 		"BR 110.3 Stahlblau DB (1968)",		
+        ["110.3_bs"] = 		"BR 110.3 Stahlblau DB (1968)",
         ["110.3_ob"] = 		"BR 110.3 Ozeanblau/Beige DB (1978)",
         ["110.3_or"] = 		"BR 110.3 Orientrot DB (1987)",
         ["110.3_vr"] = 		"BR 110.3 Verkehrsrot DB AG (1998)",
-		
+
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
-        		
+
         ["139.1_co"] = 		"BR 139.1 Cromoxidgrün DB (1968)",
         ["139.1_co2"] = 	"BR 139.1 Cromoxidgrün DB AG (1994)",
         ["139.1_ob"] = 		"BR 139.1 Ozeanblau/Beige DB (1978)",
         ["139.1_ob2"] = 	"BR 139.1 Ozeanblau/Beige DB AG (1994)",
         ["139.1_vr"] = 		"BR 139.1 Verkehrsrot DB (1998)",
-		
+
         ["e40.11_co"] = 	"E40.11 Cromoxidgrün DB (1961)",
         ["139.2_co"] = 		"BR 139.2 Cromoxidgrün DB (1968)",
         ["139.2_co2"] = 	"BR 139.2 Cromoxidgrün DB AG (1994)",
         ["139.2_ob"] = 		"BR 139.2 Ozeanblau/Beige DB (1978)",
         ["139.2_ob2"] = 	"BR 139.2 Ozeanblau/Beige DB AG (1994)",
         ["139.2_ob3"] = 	"BR 139.2 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
-        ["139.2_ob4"] = 	"BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",				
+        ["139.2_ob4"] = 	"BR 139.2 Ozeanblau/Beige DB AG mit Fernlicht (1994)",
         ["139.2_or"] = 		"BR 139.2 Orientrot DB (1987)",
         ["139.2_or2"] = 	"BR 139.2 Orientrot DB AG (1994)",
         ["139.2_vr"] = 		"BR 139.2 Verkehrsrot DB AG (1998)",
         ["139.2_vr2"] = 	"BR 139.2 Verkehrsrot 2 DB AG (1998)",
         ["139.2_vr3"] = 	"BR 139.2 Verkehrsrot DB AG Cargo mit Fernlicht (1998)",
-        ["139.2_vr4"] = 	"BR 139.2 Verkehrsrot DB AG Cargo (1998)",		
+        ["139.2_vr4"] = 	"BR 139.2 Verkehrsrot DB AG Cargo (1998)",
         ["139.2_radve"] = 	"BR 139.2 Raildaventure 139 558 (2012)",
         ["139.2_byb"] = 	"BR 139.2 Bayernbahn 139 287 (2017)",
         ["139.2_byb2"] = 	"BR 139.2 Bayernbahn 139 309 (2020)",
@@ -241,9 +250,9 @@ return {
         ["139.2_lomo3"] = 	"BR 139.2 Lokomotion 139 177 (2005)",
         ["139.2_lomo4"] = 	"BR 139.2 Lokomotion 139 213 (2022)",
         ["139.2_lomo5"] = 	"BR 139.2 Lokomotion 139 311 (2016)",
-		
+
 		["139_desc"] = "Die BR 139 war die Einheitselektrolokomotive für den Güterverkehr und Personenverkehr der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
-		
+
         ["e40.0_fg"] = 		"E40.0 Flaschengrün DB (1957)",
         ["e40.0_co"] = 		"E40.0 Cromoxidgrün DB (1960)",
         ["140.0_co"] = 		"BR 140.0 Cromoxidgrün DB (1968)",
@@ -258,20 +267,20 @@ return {
         ["140.0_or3"] = 	"BR 140.0 Orientrot DB AG (1994)",
         ["140.0_or4"] = 	"BR 140.0 Orientrot 2 DB AG (1994)",
         ["140.0_vr"] = 		"BR 140.0 Verkehrsrot DB AG (1998)",
-				
-        ["e40.1_co"] = 		"E40.1 Cromoxidgrün DB (1960)",		
-        ["140.1_co"] = 		"BR 140.1 Cromoxidgrün DB (1968)",	
-        ["140.1_co2"] = 	"BR 140.1 Cromoxidgrün 2 DB (1968)",	
-        ["140.1_co3"] = 	"BR 140.1 Cromoxidgrün DB Keks Himbeerrot (1987)",	
-        ["140.1_co4"] = 	"BR 140.1 Cromoxidgrün 3 DB (1968)",	
-        ["140.1_co5"] = 	"BR 140.1 Cromoxidgrün DB AG (1994)",	
-        ["140.1_ob"] = 		"BR 140.1 Ozeanblau/Beige DB (1978)",	
-        ["140.1_ob2"] = 	"BR 140.1 Ozeanblau/Beige 2 DB (1978)",	
-        ["140.1_ob3"] = 	"BR 140.1 Ozeanblau/Beige 3 DB (1978)",	
-        ["140.1_ob4"] = 	"BR 140.1 Ozeanblau/Beige DB AG (1994)",	
-        ["140.1_ob5"] = 	"BR 140.1 Ozeanblau/Beige 2 DB AG (1994)",	
+
+        ["e40.1_co"] = 		"E40.1 Cromoxidgrün DB (1960)",
+        ["140.1_co"] = 		"BR 140.1 Cromoxidgrün DB (1968)",
+        ["140.1_co2"] = 	"BR 140.1 Cromoxidgrün 2 DB (1968)",
+        ["140.1_co3"] = 	"BR 140.1 Cromoxidgrün DB Keks Himbeerrot (1987)",
+        ["140.1_co4"] = 	"BR 140.1 Cromoxidgrün 3 DB (1968)",
+        ["140.1_co5"] = 	"BR 140.1 Cromoxidgrün DB AG (1994)",
+        ["140.1_ob"] = 		"BR 140.1 Ozeanblau/Beige DB (1978)",
+        ["140.1_ob2"] = 	"BR 140.1 Ozeanblau/Beige 2 DB (1978)",
+        ["140.1_ob3"] = 	"BR 140.1 Ozeanblau/Beige 3 DB (1978)",
+        ["140.1_ob4"] = 	"BR 140.1 Ozeanblau/Beige DB AG (1994)",
+        ["140.1_ob5"] = 	"BR 140.1 Ozeanblau/Beige 2 DB AG (1994)",
         ["140.1_ob6"] = 	"BR 140.1 Ozeanblau/Beige DB Museum (2012)",
-        ["140.1_or"] = 		"BR 140.1 Orientrot DB (1987)",	
+        ["140.1_or"] = 		"BR 140.1 Orientrot DB (1987)",
         ["140.1_or2"] = 	"BR 140.1 Orientrot 2 DB (1987)",
         ["140.1_or3"] = 	"BR 140.1 Orientrot DB AG (1994)",
         ["140.1_or4"] = 	"BR 140.1 Orientrot 2 DB AG mit RK 900 (1994)",
@@ -281,15 +290,15 @@ return {
         ["140.1_vr3"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",
         ["140.1_vr4"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",
         ["140.1_vr5"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",
-        ["140.1_vr6"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",			
+        ["140.1_vr6"] = 	"BR 140.1 Verkehrsrot DB AG (1998)",
         ["140.1_ebm"] = 	"BR 140.1 EBM Cargo (2012)",
-       	   
-        ["140.7_co"] = 		"BR 140.7 Cromoxidgrün DB (1969)",	
+
+        ["140.7_co"] = 		"BR 140.7 Cromoxidgrün DB (1969)",
         ["140.7_co2"] = 	"BR 140.7 Cromoxidgrün 2 DB (1969)",
-        ["140.7_co3"] = 	"BR 140.7 Cromoxidgrün DB AG (1994)",	
-        ["140.7_co4"] = 	"BR 140.7 Cromoxidgrün DB mit Cakv (1969)",	
-	    ["140.7_ob"] = 		"BR 140.7 Ozeanblau/Beige DB (1978)",	
-	    ["140.7_ob2"] = 	"BR 140.7 Ozeanblau/Beige 2 DB (1978)",	
+        ["140.7_co3"] = 	"BR 140.7 Cromoxidgrün DB AG (1994)",
+        ["140.7_co4"] = 	"BR 140.7 Cromoxidgrün DB mit Cakv (1969)",
+	    ["140.7_ob"] = 		"BR 140.7 Ozeanblau/Beige DB (1978)",
+	    ["140.7_ob2"] = 	"BR 140.7 Ozeanblau/Beige 2 DB (1978)",
 	    ["140.7_ob3"] = 	"BR 140.7 Ozeanblau/Beige DB AG (1994)",
         ["140.7_or"] = 		"BR 140.7 Orientrot DB (1987)",
         ["140.7_or2"] = 	"BR 140.7 Orientrot 2 DB (1987)",
@@ -297,18 +306,18 @@ return {
         ["140.7_or4"] = 	"BR 140.7 Orientrot 2 DB AG (1994)",
         ["140.7_or5"] = 	"BR 140.7 Orientrot DB mit Cakv 69(1987)",
         ["140.7_or6"] = 	"BR 140.7 Orientrot DB AG  mit Cakv 69 (1994)",
-        ["140.7_vr"] = 		"BR 140.7 Verkehrsrot DB AG (1998)",	
-        ["140.7_vr2"] = 	"BR 140.7 Verkehrsrot 2 DB AG (1998)",	
-        ["140.7_vr3"] = 	"BR 140.7 Verkehrsrot DB AG mit UIC Nummer (2006)",	
-        ["140.7_vr4"] = 	"BR 140.7 Verkehrsrot 2 DB AG mit UIC Nummer (2006)",		
-        ["140.7_rbh"] = 	"BR 140.7 Verkehrsrot RBH (2013)",			
-        ["140.7_press"] = 	"BR 140.7 Verkehrsblau Press (2014)",			
-        ["140.7_press2"] = 	"BR 140.7 Verkehrsblau 2 Press (2014)",			
-        ["140.7_ebs"] = 	"BR 140.7 Verkehrsschwarz EBS (2016)",			
-        ["140.7_bau"] = 	"BR 140.7 Schweerbau (2016)",	
-				
+        ["140.7_vr"] = 		"BR 140.7 Verkehrsrot DB AG (1998)",
+        ["140.7_vr2"] = 	"BR 140.7 Verkehrsrot 2 DB AG (1998)",
+        ["140.7_vr3"] = 	"BR 140.7 Verkehrsrot DB AG mit UIC Nummer (2006)",
+        ["140.7_vr4"] = 	"BR 140.7 Verkehrsrot 2 DB AG mit UIC Nummer (2006)",
+        ["140.7_rbh"] = 	"BR 140.7 Verkehrsrot RBH (2013)",
+        ["140.7_press"] = 	"BR 140.7 Verkehrsblau Press (2014)",
+        ["140.7_press2"] = 	"BR 140.7 Verkehrsblau 2 Press (2014)",
+        ["140.7_ebs"] = 	"BR 140.7 Verkehrsschwarz EBS (2016)",
+        ["140.7_bau"] = 	"BR 140.7 Schweerbau (2016)",
+
 		["e40_desc"] = "Die BR 140 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
-				
+
         ["e41.0_bs"] = 		"E 41.0 Stahlblau DB (1957)",
         ["e41.0_fg"] = 		"E 41.0 Flaschengrün DB (1958)",
         ["e41.0_co"] = 		"E 41.0 Cromoxidgrün DB (1960)",
@@ -325,57 +334,53 @@ return {
         ["141.0_or"] = 		"BR 140.0 Orientrot DB (1987)",
         ["141.0_or2"] = 	"BR 140.0 Orientrot DB AG (1994)",
         ["141.0_vr"] = 		"BR 140.0 Verkehrsrot DB AG (1998)",
-				
+
         ["e41.1_co"] = 		"E 41.1 Cromoxidgrün DB (1960)",
         ["141.1_co"] = 		"BR 141.1 Cromoxidgrün DB (1968)",
         ["141.1_co2"] = 	"BR 141.1 Cromoxidgrün 2 DB (1968)",
         ["141.1_co3"] = 	"BR 141.1 Cromoxidgrün DB AG (1994)",
         ["141.1_co4"] = 	"BR 141.1 Cromoxidgrün 3 DB (1968)",
         ["141.1_co5"] = 	"BR 141.1 Cromoxidgrün DB AG (1994)",
-        ["141.1_co6"] = 	"BR 141.1 Cromoxidgrün DB mit E Bremse (1972)",
         ["141.1_ob"] = 		"BR 141.1 Ozeanblau/Beige DB (1978)",
         ["141.1_ob2"] = 	"BR 141.1 Ozeanblau/Beige 2 DB (1978)",
         ["141.1_ob3"] = 	"BR 141.1 Ozeanblau/Beige DB AG (1994)",
         ["141.1_ob4"] = 	"BR 141.1 Ozeanblau/Beige DB mit E Bremse(1978)",
         ["141.1_ob5"] = 	"BR 141.1 Ozeanblau/Beige DB AG mit E Bremse (1994)",
         ["141.1_ob6"] = 	"BR 141.1 Ozeanblau/Beige DB Dachkante Ozeanblau (1978)",
-        ["141.1_ob7"] = 	"BR 141.1 Ozeanblau/Beige DB Karlsruher Zug (1978)",
         ["141.1_or"] = 		"BR 140.1 Orientrot DB (1987)",
         ["141.1_or2"] = 	"BR 140.1 Orientrot DB AG (1994)",
         ["141.1_or3"] = 	"BR 140.1 Orientrot DB mit E Bremse (1987)",
         ["141.1_or4"] = 	"BR 140.1 Orientrot DB AG mit E Bremse (1994)",
         ["141.1_vr"] = 		"BR 140.1 Verkehrsrot DB AG (1998)",
-        ["141.1_sbahn"] = 	"BR 140.1 Kieselgrau-Orange DB (1987)",
-        ["141.1_sbahn2"] = 	"BR 140.1 Kieselgrau-Orange DB AG (1994)",
-		
+
 		["e41_desc"] = "Die BR 141 war die Einheitselektrolokomotive hauptsächlich gedacht für den Personenverkehrs auf Nebenbahnen und im Nahverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war aber vor allen leichten Zügen anzutreffen, sogar vor Güterzügen. Sie war die kleinste und leichteste Lokomotive innerhalb des Konzepts der elektrischen Einheitslokomotiven. ",
-		
-		
+
+
         ["e50.0_fg"] = 		"E50.0 Flaschengrün DB (1957)",
-        ["e50.0_co"] = 		"E50.0 Cromoxidgrün DB (1960)",	
+        ["e50.0_co"] = 		"E50.0 Cromoxidgrün DB (1960)",
         ["150.0_co"] = 		"BR 150.0 Cromoxidgrün DB (1968)",
-        ["150.0_co2"] = 	"BR 150.0 Cromoxidgrün 2 DB (1968)",		
-        ["150.0_co3"] = 	"BR 150.0 Cromoxidgrün 3 DB (1968)",		
-        ["150.0_ob"] = 		"BR 150.0 Ozeanblau/Beige DB (1978)",		
-        ["150.0_ob2"] =		"BR 150.0 Ozeanblau/Beige DB Keks Himbeerrot (1987)",			
-        ["150.0_ob3"] = 	"BR 150.0 Ozeanblau/Beige DB AG (1994)",		
-        ["150.0_or"] = 		"BR 150.0 Orientrot DB (1987)",	
-        ["150.0_or2"] = 	"BR 150.0 Orientrot 2 DB (1987)",	
-        ["150.0_or3"] = 	"BR 150.0 Orientrot DB AG (1994)",	
+        ["150.0_co2"] = 	"BR 150.0 Cromoxidgrün 2 DB (1968)",
+        ["150.0_co3"] = 	"BR 150.0 Cromoxidgrün 3 DB (1968)",
+        ["150.0_ob"] = 		"BR 150.0 Ozeanblau/Beige DB (1978)",
+        ["150.0_ob2"] =		"BR 150.0 Ozeanblau/Beige DB Keks Himbeerrot (1987)",
+        ["150.0_ob3"] = 	"BR 150.0 Ozeanblau/Beige DB AG (1994)",
+        ["150.0_or"] = 		"BR 150.0 Orientrot DB (1987)",
+        ["150.0_or2"] = 	"BR 150.0 Orientrot 2 DB (1987)",
+        ["150.0_or3"] = 	"BR 150.0 Orientrot DB AG (1994)",
         ["150.0_or4"] = 	"BR 150.0 Orientrot 2 DB AG (1994)",
-		
-        ["e50.1_co"] = 		"E50.1 Cromoxidgrün DB (1960)",	
+
+        ["e50.1_co"] = 		"E50.1 Cromoxidgrün DB (1960)",
         ["150.1_co"] = 		"BR 150.1 Cromoxidgrün DB (1968)",
-        ["150.1_co2"] = 	"BR 150.1 Cromoxidgrün 2 DB (1968)",	
-        ["150.1_co3"] = 	"BR 150.1 Cromoxidgrün 3 DB (1968)",	
-        ["150.1_co4"] = 	"BR 150.1 Cromoxidgrün DB (1987)",	
-        ["150.1_co5"] = 	"BR 150.1 Cromoxidgrün DB (1994)",	
-        ["150.1_co6"] = 	"BR 150.1 Cromoxidgrün DB (1994)",	
-        ["150.1_ob"] = 		"BR 150.1 Ozeanblau/Beige DB (1978)",		
-        ["150.1_ob2"] = 	"BR 150.1 Ozeanblau/Beige 2 DB (1978)",		
-        ["150.1_ob3"] = 	"BR 150.1 Ozeanblau/Beige DB (1987)",		
-        ["150.1_ob4"] = 	"BR 150.1 Ozeanblau/Beige 2 DB AG (1994)",			
-        ["150.1_ob5"] = 	"BR 150.1 Ozeanblau/Beige 2 DB AG (1994)",	
+        ["150.1_co2"] = 	"BR 150.1 Cromoxidgrün 2 DB (1968)",
+        ["150.1_co3"] = 	"BR 150.1 Cromoxidgrün 3 DB (1968)",
+        ["150.1_co4"] = 	"BR 150.1 Cromoxidgrün DB (1987)",
+        ["150.1_co5"] = 	"BR 150.1 Cromoxidgrün DB (1994)",
+        ["150.1_co6"] = 	"BR 150.1 Cromoxidgrün DB (1994)",
+        ["150.1_ob"] = 		"BR 150.1 Ozeanblau/Beige DB (1978)",
+        ["150.1_ob2"] = 	"BR 150.1 Ozeanblau/Beige 2 DB (1978)",
+        ["150.1_ob3"] = 	"BR 150.1 Ozeanblau/Beige DB (1987)",
+        ["150.1_ob4"] = 	"BR 150.1 Ozeanblau/Beige 2 DB AG (1994)",
+        ["150.1_ob5"] = 	"BR 150.1 Ozeanblau/Beige 2 DB AG (1994)",
         ["150.1_or"] = 		"BR 150.1 Orientrot DB (1987)",
         ["150.1_or2"] = 	"BR 150.1 Orientrot 2 DB (1987)",
         ["150.1_or3"] = 	"BR 150.1 Orientrot DB AG (1994)",
@@ -384,14 +389,14 @@ return {
         ["150.1_or6"] = 	"BR 150.1 Orientrot 3 DB AG (1994)",
         ["150.1_vr"] = 		"BR 150.1 Verkehrsrot DB AG (1998)",
         ["150.1_vr2"] = 	"BR 150.1 Verkehrsrot 2 DB AG (1998)",
-		
+
 		["BR150_desc"] = "Die Baureihe BR 150 ist eine für die Deutsche Bundesbahn erstmals im Jahre 1957 gebaute Einheitselektrolokomotive für den schweren Güterverkehr.  Mit ihren drei-achsigen Drehgestellen war sie in der Lage schwere Güterzüge zu befördern, allerdings war oberhalb von 80 km/h der Verschleiß stark erhöht. ",
-					
+
 		["einfach_desc"] = " Variante mit Einfachlampe.",
 		["einfach2_desc"] = " Variante mit Einfachlampe und Wendezugsteurung.",
-		["doppel_desc"] = " Variante mit Doppellampe.",	
+		["doppel_desc"] = " Variante mit Doppellampe.",
 		["doppel2_desc"] = " Variante mit Doppellampe und Wendezugsteurung.",
-		["led_desc"] = " Variante mit LED Lichter.",		
+		["led_desc"] = " Variante mit LED Lichter.",
 		["wende_desc"] = " Variante mit Doppellampe und Wendezugsteurung.",
 		["wende2_desc"] = " Variante mit LED Lichter und Wendezugsteurung.",
 		["verschleiss_desc"] = " Variante mit Doppellampe, Verschleißpufferbohle und Wendezugsteurung.",
@@ -400,9 +405,9 @@ return {
 		["zza_desc"] = " S-Bahn Ausrüstung mit Doppellampe, Wendezugsteurung und Zugzielanzeiger.",
 		["cakv_desc"] = " Variante mit Doppellampe, Wendezugsteurung und Cakv 69 Kupplung.",
 		["rk900_desc"] = " Variante mit Doppellampe und RK 900.",
-		
-		
-		
+
+
+
 		["BR110_1"] = "BR 110.1",
 		["BR110_2"] = "BR 110.2",
 		["BR110_desc"] = "Die BR 110 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. BR 110.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als BR 110.2 bezeichnet.",
