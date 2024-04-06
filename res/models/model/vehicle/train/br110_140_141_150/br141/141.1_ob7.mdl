@@ -20,7 +20,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/unterbau_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -28,13 +28,13 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod0.msh",
 								name = "MSH_drehgestell_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
@@ -42,7 +42,7 @@ return {
 							{
 								_meshId = 5,
 								_origMeshId = 5,
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -54,19 +54,19 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod0.msh",
 								name = "MSH_drehgestell_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_3",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh",
 								name = "MSH_110_rad_4",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -76,73 +76,73 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.64763, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_1",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_2",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_2",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_3",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_3",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_4",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_4",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_5",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_5",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
 						name = "MSH_panto_up_6",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
 						name = "MSH_panto_down_6",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
@@ -184,7 +184,7 @@ return {
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", "vehicle/train/br141/141.1_ob7.mtl",  },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", "vehicle/train/br141/141.1_ob7.mtl",  },
 						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -250,7 +250,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/puffer_rund_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -316,7 +316,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/unterbau_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -324,13 +324,13 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod1.msh",
 								name = "MSH_drehgestell_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
@@ -338,7 +338,7 @@ return {
 							{
 								_meshId = 5,
 								_origMeshId = 5,
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -350,19 +350,19 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod1.msh",
 								name = "MSH_drehgestell_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_3",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh",
 								name = "MSH_110_rad_4",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -372,73 +372,73 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.64763, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_1",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_2",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_2",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_3",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_3",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_4",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_4",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_5",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_5",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
 						name = "MSH_panto_up_6",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
 						name = "MSH_panto_down_6",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
@@ -474,7 +474,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", "vehicle/train/br141/141.1_ob7.mtl",  },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", "vehicle/train/br141/141.1_ob7.mtl",  },
 						mesh = "vehicle/train/br110_140_141_150/br141/dach_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -486,7 +486,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/puffer_rund_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -539,7 +539,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/unterbau_lod2.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -547,13 +547,13 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod2.msh",
 								name = "MSH_drehgestell_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
@@ -561,7 +561,7 @@ return {
 							{
 								_meshId = 5,
 								_origMeshId = 5,
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -573,19 +573,19 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod2.msh",
 								name = "MSH_drehgestell_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_3",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_4",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -595,79 +595,79 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.64763, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_1",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_2",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_2",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_3",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_3",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_4",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_4",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_5",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_5",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
 						name = "MSH_panto_up_6",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_6",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.2382, 0, 4, 1, },
 					},
 					{
-						materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+						materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br141/puffer_rund_lod2.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -704,13 +704,13 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod2.msh",
 								name = "MSH_drehgestell_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_1",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
@@ -718,7 +718,7 @@ return {
 							{
 								_meshId = 5,
 								_origMeshId = 5,
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
@@ -730,19 +730,19 @@ return {
 					{
 						children = {
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/br141/drehgestell_lod2.msh",
 								name = "MSH_drehgestell_2",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_3",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.61, 0, 0.619636, 1, },
 							},
 							{
-								materials = { "vehicle/train/br141/unterbau_ob.mtl", },
+								materials = { "vehicle/train/br141/unterbau_ob2.mtl", },
 								mesh = "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh",
 								name = "MSH_110_rad_4",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.61, 0, 0.619636, 1, },
