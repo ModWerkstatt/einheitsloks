@@ -287,7 +287,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/glas_licht.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/glas_lampe_oben_alt_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/glas_lampe_oben_neu_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
