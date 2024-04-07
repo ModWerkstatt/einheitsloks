@@ -524,13 +524,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod1.msh",
-						name = "MSH_e10_trittrost_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_fensterrahmen_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_ddl_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -542,7 +536,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_luefter_schwaiger_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/glas_fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -715,7 +709,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/luefter_schwaiger_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/luefter_ddl_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
