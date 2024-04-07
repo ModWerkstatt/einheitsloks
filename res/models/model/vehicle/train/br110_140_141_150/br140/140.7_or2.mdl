@@ -15,7 +15,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br140/140.7_or2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_verschleiss_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br140_lod0.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
