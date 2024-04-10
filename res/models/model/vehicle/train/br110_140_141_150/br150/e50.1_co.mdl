@@ -237,7 +237,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_co.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br150/front_tritt_durchgehend_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br150/front_tritt_lod0.msh",
 						name = "MSH_110_innen_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
