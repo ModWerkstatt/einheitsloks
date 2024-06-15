@@ -214,7 +214,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_co2.mtl", },
+						materials = { "vehicle/train/br140/140.7_co.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/kws_kabel_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
