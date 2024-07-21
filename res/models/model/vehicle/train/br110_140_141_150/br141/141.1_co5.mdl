@@ -762,11 +762,7 @@ return {
 	metadata = {
 		availability = {
 			yearFrom = 1994,
-<<<<<<< Updated upstream
-			yearTo = 2006,
-=======
 			yearTo = 2003,
->>>>>>> Stashed changes
 		},
 		cost = {
 			price = -1,
