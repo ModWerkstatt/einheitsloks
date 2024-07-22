@@ -214,8 +214,8 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob6.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/lampe_doppel_lod0.msh",
+						materials = { "vehicle/train/br141/141.1_ob8.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br141/lampe_doppel_zweiseitig_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -262,8 +262,8 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_ob6.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/griffe_front_seitlich_lod0.msh",
+						materials = { "vehicle/train/br141/141.1_ob8.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br141/griffe_front_seitlich_zweiseitig_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},

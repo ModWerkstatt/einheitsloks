@@ -315,6 +315,7 @@ return {
         ["140.7_press2"] = 	"BR 140.7 Press 2 (2014)",
         ["140.7_ebs"] = 	"BR 140.7 EBS (2016)",
         ["140.7_bau"] = 	"BR 140.7 Schweerbau (2016)",
+        ["140.7_byb"] = 	"BR 140.7 Bayernbahn (2020)",
 
 		["e40_desc"] = "Die BR 140 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
 
@@ -336,6 +337,9 @@ return {
         ["141.0_vr"] = 		"BR 141.0 verkehrsrot DB AG (1998)",
 
         ["e41.1_co"] = 		"E41.1 chromoxidgrün DB (1960)",
+        ["e41.1_co2"] = 	"E41.1 chromoxidgrün DB mit Dunkelgrauen Rahmen (1964)",
+        ["e41.1_co3"] = 	"E41.1 chromoxidgrün DB mit Hellgrauen Rahmen (1964)",
+        ["e41.1_co4"] = 	"E41.1 chromoxidgrün DB mit Hellgrünen Rahmen (1964)",
         ["141.1_co"] = 		"BR 141.1 chromoxidgrün DB (1968)",
         ["141.1_co2"] = 	"BR 141.1 chromoxidgrün 2 DB (1968)",
         ["141.1_co3"] = 	"BR 141.1 chromoxidgrün DB AG (1994)",
@@ -349,6 +353,8 @@ return {
         ["141.1_ob5"] = 	"BR 141.1 ozeanblau/beige DB AG mit E-Bremse (1994)",
         ["141.1_ob6"] = 	"BR 141.1 ozeanblau/beige DB ozeanblaues Dach (1978)",
         ["141.1_ob7"] = 	"BR 141.1 ozeanblau/beige DB Karlsruher Zug (1978)",
+        ["141.1_ob8"] = 	"BR 141.1 ozeanblau/beige DB Karlsruher Zug (1986)",
+        ["141.1_ob9"] = 	"BR 141.1 ozeanblau/beige DB AG Karlsruher Zug (1994)",
         ["141.1_or"] = 		"BR 141.1 orientrot DB (1987)",
         ["141.1_or2"] = 	"BR 141.1 orientrot DB AG (1994)",
         ["141.1_or3"] = 	"BR 141.1 orientrot DB mit E-Bremse (1987)",
