@@ -767,8 +767,8 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 2006,
-			yearTo = 2016,
+			yearFrom = 2020,
+			yearTo = 0000,
 		},
 		cost = {
 			price = -1,
@@ -871,7 +871,7 @@ return {
 			br140 = true,
 			br141 = false,
 			br150 = false,
-			privatbahn = false,
+			privatbahn = true,
 		},
 	},
 	version = 1,
