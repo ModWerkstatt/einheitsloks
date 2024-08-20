@@ -184,7 +184,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/lampen_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -208,25 +208,31 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/luefterband_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/griffe_tuer_alt_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_windschnittig_lod0.msh",
+						name = "MSH_e10_frontstange_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/dbkeks_front_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/dbkeks_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -238,7 +244,13 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br110/e10.12_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/zugschlusshalter_mittig_lod0.msh",
+						name = "MSH_110_gusskeks_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lokschild_seitlich_br140_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -279,7 +291,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br110/e10.12_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br110_lod1.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -455,7 +467,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_einzel_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -467,25 +479,25 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/lampe_oben_neu_lod1.msh",
 						name = "MSH_110_stirnlampe1_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_ddl_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_schwaiger_fensterrahmen_lod1.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/griffe_tuer_alt_lod1.msh",
 						name = "MSH_e10_frontstange_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -514,7 +526,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br110/e10.12_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br110_lod2.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -652,7 +664,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_rheingold.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/luefter_ddl_lod2.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -675,7 +687,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br110/e10.12_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.12_rheingold.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/rumpf_br110_lod3.msh",
 						name = "MSH_110.1_rumpf_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
