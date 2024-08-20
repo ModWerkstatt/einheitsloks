@@ -765,7 +765,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1962,
+			yearFrom = 1963,
 			yearTo = 1968,
 		},
 		cost = {
@@ -773,7 +773,7 @@ return {
 		},
 		description = {
 			name = _("e10.13_rheingold"),
-			description = _("e10_desc") .. _("einfach_desc"),
+			description = _("e10.13_desc") .. _("rheingold_desc"),
 		},
 		emission = {
 			idleEmission = -1,

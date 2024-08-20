@@ -762,6 +762,12 @@ return {
         ["E10_477_desc"] = "Die erste Lok des letzten Lieferloses, E 10 477, wurde 1967 als erste E 10 ohne umlaufende Regenrinne und ohne Lokschilder geliefert, zusätzlich jedoch mit zwei auffälligen Warnstreifen an den Frontseiten versehen.",
         ["BR110_365_desc"] = "Ein Versuch zur Verbesserung der Erkennbarkeit wurde an 110 365 vorgenommen: Ab Mitte 1973 zierte ein großes, auf die Spitze gestelltes weißes Dreieck die Lok-Front. Weitere Verbreitung fand auch dieses Design nicht. Die Lok behielt diese Sonderlackierung allerdings noch bis kurz vor dem Farbwechsel in ozeanblau/beige 1983.",
 
+        ["e10.12_rheingold"] = "E 10.12 Rheingold (1962)",
+        ["e10.13_rheingold"] = "E 10.13 Rheingold (1963)",
+        ["e10.12_desc"] = "E 10.12",
+        ["e10.13_desc"] = "E 10.13",
+        ["rheingold_desc"] = "Loks für den Rheingold in passender Lackierung",
+
 	}
 }
 end
