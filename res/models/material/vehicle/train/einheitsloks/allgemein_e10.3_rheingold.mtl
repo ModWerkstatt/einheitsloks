@@ -21,7 +21,7 @@ return {
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/einheitsloks/allgemein_e10.3_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/einheitsloks/allgemein_e10.3_rheingold_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {
