@@ -792,8 +792,8 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("br110.4_tee"),
-			description = _("br110.4_desc") .. _("tee_desc"),
+			name = _("br112.4_tee"),
+			description = _("br112.4_desc") .. _("tee_desc"),
 		},
 		emission = {
 			idleEmission = -1,
