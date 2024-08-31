@@ -202,7 +202,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br110.3/unterbau_e10.12_rheingold.mtl", },
+						materials = { "vehicle/train/br110.3/e10.13_tee.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/pufferverkleidung_lod0.msh",
 						name = "MSH_110_stirnlampe1_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -286,7 +286,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/glas_licht.mtl", },
+						materials = { "vehicle/train/einheitsloks/glas_licht_110.3.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/glas_licht_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
