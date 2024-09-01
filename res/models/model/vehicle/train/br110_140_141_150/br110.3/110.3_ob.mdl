@@ -21,7 +21,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110.3/unterbau_110.3_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_schuerze_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_lod0.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -280,7 +280,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110.3/unterbau_112_tee.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_schuerze_lod1.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_lod1.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -497,7 +497,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110.3/unterbau_112_tee.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_schuerze_lod2.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_lod2.msh",
 						name = "MSH_e10_lampen_alt_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -761,14 +761,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1995,
-			yearTo = 2003,
+			yearFrom = 1978,
+			yearTo = 1994,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("br110.4_tee"),
+			name = _("br110.3_ob"),
 			description = _("br110.4_desc") .. _("tee_desc"),
 		},
 		emission = {
