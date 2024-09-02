@@ -461,7 +461,7 @@ return {
 		["e10.3_bs"] = 		"E 10.3 stahlblau DB (1960)",
         ["110.3_bs"] = 		"BR 110.3 stahlblau DB (1968)",
         ["110.3_ob"] = 		"BR 110.3 ozeanblau/beige DB (1978)",
-        ["110.3_ob2"] = 	"BR 110.3 ozeanblau/beige DB (1978)",
+        ["110.3_ob2"] = 	"BR 110.3 ozeanblau/beige DB 2 (1978)",
         ["110.3_ob3"] = 	"BR 110.3 ozeanblau/beige DB (1978)",
         ["110.3_ob4"] = 	"BR 110.3 ozeanblau/beige DB (1978)",
         ["110.3_ob5"] = 	"BR 110.3 ozeanblau/beige DB (1978)",

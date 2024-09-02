@@ -245,6 +245,12 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_110.3_ob.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_vorne_lod0.msh",
+						name = "MSH_110_gusskeks_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/allgemein_110.3_ob.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_zs_dose_112_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -252,6 +258,12 @@ return {
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/innen_lod0.msh",
+						name = "MSH_110.1_rumpfrinne_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/innen.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/maschinenraum_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
