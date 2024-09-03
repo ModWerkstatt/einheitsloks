@@ -463,7 +463,7 @@ return {
         ["110.3_ob"] = 		"BR 110.3 ozeanblau/beige DB (1978)",
         ["110.3_ob2"] = 	"BR 110.3 ozeanblau/beige DB 2 (1978)",
         ["110.3_ob3"] = 	"BR 110.3 ozeanblau/beige DB 3 (1978)",
-        ["110.3_ob4"] = 	"BR 110.3 ozeanblau/beige DB 4 (1978)",
+        ["110.3_ob4"] = 	"BR 110.3 ozeanblau/beige DB 150 Jahre Deutsche Eisenbahnen (1985)",
         ["110.3_ob6"] = 	"BR 110.3 ozeanblau/beige DB (1987)",
         ["110.3_ob6"] = 	"BR 110.3 ozeanblau/beige DB (1994)",
         ["110.3_ob7"] = 	"BR 110.3 ozeanblau/beige DB AG (1994)",
