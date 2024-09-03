@@ -179,13 +179,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110.3/110.3_ob4.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/regenrinne_front_lod0.msh",
-						name = "MSH_110.1_rumpfrinne_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br110.3/110.3_ob4.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/regenrinne_seite_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110.3/regenrinne_halbrum_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -214,8 +208,8 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_110.3_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/fenster_modern_lod0.msh",
+						materials = { "vehicle/train/einheitsloks/allgemein_110.3_ob.mtl",  "vehicle/train/br110.3/110.3_ob4.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110_140/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -276,12 +270,6 @@ return {
 					{
 						materials = { "vehicle/train/einheitsloks/glas_licht_110.3.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/glas_licht_lod0.msh",
-						name = "MSH_e10_trittrost_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_luefter_klatte_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
