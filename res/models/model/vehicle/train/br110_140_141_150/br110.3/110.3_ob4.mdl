@@ -215,7 +215,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/allgemein_110.3_ob.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/luefter_klatte_lang_mitte_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110.3/fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -282,6 +282,12 @@ return {
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_luefter_klatte_lod0.msh",
+						name = "MSH_e10_trittrost_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_fenster_modern_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
