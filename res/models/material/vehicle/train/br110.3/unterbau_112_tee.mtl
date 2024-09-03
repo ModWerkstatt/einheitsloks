@@ -17,11 +17,11 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br110.3/beweglich_112.4_tee_albedo.dds",
+			fileName = "models/vehicle/train/br110.3/beweglich_112_tee_albedo.dds",
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br110.3/beweglich_112.4_tee_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br110.3/beweglich_112_tee_cblend_dirt_rust.dds",
 			type = "TWOD",
 		},
 		map_dirt = {
@@ -34,11 +34,11 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br110.3/beweglich_112.4_tee_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br110.3/beweglich_112_tee_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br110.3/beweglich_112.4_tee_normal.dds",
+			fileName = "models/vehicle/train/br110.3/beweglich_112_tee_normal.dds",
 			redGreen = true,
 			type = "TWOD",
 		},
