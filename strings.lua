@@ -471,6 +471,17 @@ return {
         ["110.3_or"] = 		"BR 110.3 orientrot DB (1987)",
         ["110.3_or2"] = 	"BR 110.3 orientrot DB 2 (1987)",
         ["110.3_vr"] = 		"BR 110.3 verkehrsrot DB AG (1998)",
+				
+		
+        ["e10.12_rheingold"] = "E10.12 stahlblau/beige DB Rheingold (1962)",		
+        ["e10.13_tee"] = 	"E10.13 purpurrot/beige DB TEE (1966)",
+        ["e10.13_rheingold"] = "E10.13 stahlblau/beige DB Rheingold (1963)",
+        ["110.4_tee"] = 	"BR 110.4 purpurrot/beige DB AG (1994)",
+        ["112.4_tee"] = 	"BR 112.4 purpurrot/beige DB (1968)",
+        ["112.4_tee2"] = 	"BR 112.4 purpurrot/beige DB (1985)",
+        ["113_tee"] = 		"BR 113 purpurrot/beige DB (1991)",
+        ["113_tee_DBAG"] = 	"BR 113 purpurrot/beige DB (1994)",
+        ["114_tee"] = 		"BR 114 purpurrot/beige DB (1988)",
 
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
 
