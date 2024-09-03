@@ -226,12 +226,6 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br110.3/114_tee.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/zugschlusshalter_mittig_lod0.msh",
-						name = "MSH_e10_frontstange_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/einheitsloks/allgemein_112.4_tee.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/griffe_front_seitlich_lod0.msh",
 						name = "MSH_e10_frontstange_bs_1",
@@ -252,6 +246,12 @@ return {
 					{
 						materials = { "vehicle/train/br110.3/114_tee.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_halter_lod0.msh",
+						name = "MSH_110_gusskeks_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/einheitsloks/allgemein_112.4_tee.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_vorne_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -845,7 +845,7 @@ return {
 				},
 			},
 			soundSet = { name = "br110", },
-			topSpeed = 44.44444444444,
+			topSpeed = 38.8888888889,
 			weight = 86,
 		},
 		seatProvider = {

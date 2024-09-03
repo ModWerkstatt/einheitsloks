@@ -743,15 +743,15 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1991,
-			yearTo = 1994,
+			yearFrom = 1994,
+			yearTo = 2003,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("br113.4_tee"),
-			description = _("br113.4_desc") .. _("tee_desc"),
+			name = _("br113.4_tee_DBAG"),
+			description = _("br113.4_DBAG_desc") .. _("tee_desc"),
 		},
 		emission = {
 			idleEmission = -1,
