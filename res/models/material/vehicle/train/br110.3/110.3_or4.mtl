@@ -17,7 +17,7 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br110.3/rumpf_110.3_or_albedo.dds",
+			fileName = "models/vehicle/train/br110.3/rumpf_110.3_or4_albedo.dds",
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
