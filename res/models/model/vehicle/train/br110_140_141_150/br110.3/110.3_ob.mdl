@@ -793,7 +793,7 @@ return {
 		},
 		description = {
 			name = _("br110.3_ob"),
-			description = _("br110.4_desc") .. _("tee_desc"),
+			description = _("br110.3_desc") .. _("tee_desc"),
 		},
 		emission = {
 			idleEmission = -1,
