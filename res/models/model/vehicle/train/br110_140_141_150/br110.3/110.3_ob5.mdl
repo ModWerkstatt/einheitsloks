@@ -780,7 +780,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("110.3_ob4"),
+			name = _("110.3_ob5"),
 			description = _("br110.3_desc") .. _("tee_desc"),
 		},
 		emission = {
