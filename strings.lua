@@ -514,7 +514,7 @@ return {
         ["110_383_blau"] = 	"BR 110 383-2 stahlblau DB (1968)",	
         ["110_384_blau"] = 	"BR 110 384-5 stahlblau DB (1968)",	
         ["110_480"] = 		"BR 110 480-1 stahlblau DB (1968)",	
-        ["112_311_tee"] = 	"BR 110 311-6 purpurrot/beige DB (1985)",	
+        ["112_311_tee"] = 	"BR 110 311-6 purpurrot/beige DB 150 Jahre (1985)",	
         ["112_488_tee"] = 	"BR 110 488-2 purpurrot/beige DB (1968)",	
         ["112_491_tee"] = 	"BR 110 491-4 purpurrot/beige DB (1985)",
 
