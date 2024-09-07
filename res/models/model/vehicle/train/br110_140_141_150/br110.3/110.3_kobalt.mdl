@@ -762,7 +762,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("e10.n_kobalt"),
+			name = _("110.3_kobalt"),
 			description = _("e10.n_desc") .. _("kobaltblau_desc"),
 		},
 		emission = {

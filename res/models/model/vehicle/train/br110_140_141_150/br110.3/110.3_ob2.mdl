@@ -268,20 +268,8 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110.3/maschinenraum_lod0.msh",
-						name = "MSH_110.1_rumpfrinne_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/einheitsloks/glas_licht_110.3.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/glas_licht_lod0.msh",
-						name = "MSH_e10_trittrost_bs_1",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/glas_luefter_klatte_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -792,7 +780,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("br110.3_ob2"),
+			name = _("110.3_ob2"),
 			description = _("br110.3_desc") .. _("tee_desc"),
 		},
 		emission = {

@@ -798,8 +798,8 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("br110.3_gff"),
-			description = _("br110.3_desc") .. _("tee_desc"),
+			name = _("110.3_gff"),
+			description = _("br110.3_desc") .. _("wende_desc"),
 		},
 		emission = {
 			idleEmission = -1,
@@ -883,7 +883,7 @@ return {
 				},
 			},
 			multipleUnitOnly = false,
-			reversible = false,
+			reversible = true,
             groupFileName = "vehicle/train/br110_140_141_150/menu_br110.3.mdl",
 		},
 		einheitsloks = {
@@ -895,7 +895,7 @@ return {
 			br140 = false,
 			br141 = false,
 			br150 = false,
-			privatbahn = false,
+			privatbahn = true,
 		},
 	},
 	version = 1,
