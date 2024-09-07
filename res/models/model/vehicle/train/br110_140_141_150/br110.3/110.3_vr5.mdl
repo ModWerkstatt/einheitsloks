@@ -877,7 +877,7 @@ return {
 				},
 			},
 			multipleUnitOnly = false,
-			reversible = false,
+			reversible = true,
             groupFileName = "vehicle/train/br110_140_141_150/menu_br110.3.mdl",
 		},
 		einheitsloks = {
