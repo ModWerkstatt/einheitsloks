@@ -461,13 +461,13 @@ return {
 		-- PLATZHALTER ---
 		["e10.3_bs"] = 		"E 10.3 stahlblau DB (1960)",
         ["110.3_bs"] = 		"BR 110.3 stahlblau DB (1968)",
-		
-		
-		
+
+
+
 		["e10.3_blau"] = 	"E 10.3 stahlblau DB (1966)",
         ["e10.12_rheingold"] = "E10.12 stahlblau/beige DB Rheingold (1962)",
-        ["e10.13_rheingold"] = "E10.13 stahlblau/beige DB Rheingold (1963)",		
-        ["e10.13_tee"] = 	"E10.13 purpurrot/beige DB TEE (1966)",	
+        ["e10.13_rheingold"] = "E10.13 stahlblau/beige DB Rheingold (1963)",
+        ["e10.13_tee"] = 	"E10.13 purpurrot/beige DB TEE (1966)",
         ["110.3_kobalt"] = 	"BR 110.3 kobaltblau DB (1974)",
         ["110.3_ob"] = 		"BR 110.3 ozeanblau/beige DB (1978)",
         ["110.3_ob2"] = 	"BR 110.3 ozeanblau/beige DB 2 (1978)",
@@ -490,12 +490,12 @@ return {
         ["110.3_vr3"] = 	"BR 110.3 verkehrsrot DB AG 2 (1998)",
         ["110.3_vr4"] = 	"BR 110.3 verkehrsrot DB AG mit UIC Nummer (2006)",
         ["110.3_vr5"] = 	"BR 110.3 verkehrsrot DB AG 2 mit UIC Nummer (2006)",
-        ["110.3_vr6"] = 	"BR 110.3 verkehrsrot DB AG 3 mit UIC Nummer (2006)",		
+        ["110.3_vr6"] = 	"BR 110.3 verkehrsrot DB AG 3 mit UIC Nummer (2006)",
         ["113_or"] = 		"BR 113 orientrot DB (1992)",
         ["113_or2"] = 		"BR 113 orientrot DB (1994)",
         ["113_or3"] = 		"BR 113 orientrot DB 2 (1994)",
         ["113_vr"] = 		"BR 113 verkehrsrot DB AG (1998)",
-        ["113_vr2"] = 		"BR 113 verkehrsrot DB AG mit UIC Nummer (2006)",		
+        ["113_vr2"] = 		"BR 113 verkehrsrot DB AG mit UIC Nummer (2006)",
         ["115_vr"] = 		"BR 115 verkehrsrot DB AG (2005)",
         ["115_vr2"] = 		"BR 115 verkehrsrot DB AG mit UIC Nummer (2006)",
         ["110.3_gff"] = 	"BR 110.3 orientrot GfF (2021)",
@@ -503,19 +503,19 @@ return {
         ["112.4_tee"] = 	"BR 112.4 purpurrot/beige DB (1968)",
         ["113_tee"] = 		"BR 113 purpurrot/beige DB (1991)",
         ["113_tee_DBAG"] = 	"BR 113 purpurrot/beige DB (1994)",
-        ["114_tee"] = 		"BR 114 purpurrot/beige DB (1988)",		
-				
-        ["e10_340_blau"] = 	"E10 340 stahlblau DB (1965)",	
-        ["e10_383_blau"] = 	"E10 383 stahlblau DB (1965)",	
-        ["e10_384_blau"] = 	"E10 384 stahlblau DB (1965)",	
-        ["e10_480"] = 		"E10 480 stahlblau DB (1966)",			
-        ["110_300"] = 		"BR 110 300-1 ozeanblau/beige DB Museum(2015)",	
-        ["110_340_blau"] = 	"BR 110 340-7 stahlblau DB (1968)",	
-        ["110_383_blau"] = 	"BR 110 383-2 stahlblau DB (1968)",	
-        ["110_384_blau"] = 	"BR 110 384-5 stahlblau DB (1968)",	
-        ["110_480"] = 		"BR 110 480-1 stahlblau DB (1968)",	
-        ["112_311_tee"] = 	"BR 110 311-6 purpurrot/beige DB 150 Jahre (1985)",	
-        ["112_488_tee"] = 	"BR 110 488-2 purpurrot/beige DB (1968)",	
+        ["114_tee"] = 		"BR 114 purpurrot/beige DB (1988)",
+
+        ["e10_340_blau"] = 	"E10 340 stahlblau DB (1965)",
+        ["e10_383_blau"] = 	"E10 383 stahlblau DB (1965)",
+        ["e10_384_blau"] = 	"E10 384 stahlblau DB (1965)",
+        ["e10_480"] = 		"E10 480 stahlblau DB (1967)",
+        ["110_300"] = 		"BR 110 300-1 ozeanblau/beige DB Museum (2015)",
+        ["110_340_blau"] = 	"BR 110 340-7 stahlblau DB (1968)",
+        ["110_383_blau"] = 	"BR 110 383-2 stahlblau DB (1968)",
+        ["110_384_blau"] = 	"BR 110 384-5 stahlblau DB (1968)",
+        ["110_480"] = 		"BR 110 480-1 stahlblau DB (1968)",
+        ["112_311_tee"] = 	"BR 110 311-6 purpurrot/beige DB 150 Jahre (1985)",
+        ["112_488_tee"] = 	"BR 110 488-2 purpurrot/beige DB (1968)",
         ["112_491_tee"] = 	"BR 110 491-4 purpurrot/beige DB (1985)",
 
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
