@@ -774,7 +774,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("110_365"),
+			name = _("110_365_blau"),
 			description = _("110.3_desc") .. _("v_latz_desc"),
 		},
 		emission = {
