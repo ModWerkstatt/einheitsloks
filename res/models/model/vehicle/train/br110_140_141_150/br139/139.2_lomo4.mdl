@@ -496,7 +496,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -665,7 +665,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br110_140/innen_lod1.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
