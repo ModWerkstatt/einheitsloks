@@ -277,13 +277,13 @@ return {
 						materials = { "vehicle/train/rk900/rk900.mtl", },
 						mesh = "vehicle/train/rk900/rk900_up_lod0.msh",
 						name = "",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.8, 0, 0.45162, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.95, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
 						mesh = "vehicle/train/rk900/rk900_up_lod0.msh",
 						name = "",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.8, 0, 0.45162, 1, },
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.95, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
@@ -705,13 +705,13 @@ return {
 						materials = { "vehicle/train/rk900/rk900.mtl", },
 						mesh = "vehicle/train/rk900/rk900_up_lod2.msh",
 						name = "",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.8, 0, 0.45162, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -7.95, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/rk900/rk900.mtl", },
 						mesh = "vehicle/train/rk900/rk900_up_lod2.msh",
 						name = "",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.8, 0, 0.45162, 1, },
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 7.95, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/innen.mtl", },
