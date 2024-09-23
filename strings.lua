@@ -84,6 +84,9 @@ return {
         ["110.3_or"] = 		"Class 110.3 orient red DB (1987)",
         ["110.3_vr"] = 		"Class 110.3 traffic red DB AG (1998)",
         ["110_rewe"] =      "Class 110 Fair Super Market in the Train (2021)",
+        ["110.3_tri"] =     "Class 110.3 TRI (2016)",
+        ["110.3_tri2"] =    "Class 110.3 TRI (2020)",
+        ["110.3_nx"] =      "Class 110.3 National Express (2022)",
 
 	["buegelfalte_desc"] = "The class 110 is a class of the so call Einheitsloks of Deutsche Bundesbahn. From E 10 288 new engines of this class were built bottle green a newer, aerodynamical better body bottle green the so called crease front (german \"Bügelfalte\") which has been used at the E 10.12 already. This class were numbered sub-class 110.3.",
 
@@ -407,7 +410,10 @@ return {
         ["113_tee"] = 		"BR 113 purpurrot/beige DB (1991)",
         ["113_tee_DBAG"] = 	"BR 113 purpurrot/beige DB (1994)",
         ["114_tee"] = 		"BR 114 purpurrot/beige DB (1988)",
-        ["110_rewe"] =      "BR 110 Fairer Super Markt im Zug (2021)",
+        ["110.3_rewe"] =    "BR 110 Fairer Super Markt im Zug (2021)",
+        ["110.3_tri"] =     "BR 110.3 TRI (2016)",
+        ["110.3_tri2"] =    "BR 110.3 TRI (2020)",
+        ["110.3_nx"] =      "BR 110.3 National Express (2022)",
 
         ["e10_340_blau"] = 	"E10 340 stahlblau DB (1965)",
         ["e10_477"] = 		"E10 477 kobaltblau DB (1967)",
