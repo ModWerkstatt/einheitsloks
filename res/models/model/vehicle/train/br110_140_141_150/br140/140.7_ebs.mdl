@@ -768,7 +768,7 @@ return {
 			price = -1,
 		},
 		description = {
-			name = _("140.7_or"),
+			name = _("140.7_ebs"),
 			description = _("e40_desc") .. _("verschleiss_desc"),
 		},
 		emission = {
