@@ -858,7 +858,7 @@ return {
 			},
 			multipleUnitOnly = false,
 			reversible = true,
-            groupFileName = "vehicle/train/br110_140_141_150/menu_br110.1.mdl",
+            groupFileName = "vehicle/train/br110_140_141_150/menu_br139.mdl",
 		},
 		einheitsloks = {
 			vorspann = false,
