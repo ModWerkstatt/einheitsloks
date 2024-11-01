@@ -75,7 +75,7 @@ return {
         ["110.2_vr4"] = 	"Class 110.2 traffic red 2 DB AG 3-Löwen-Takt (1998)",
         ["110.2_press"] = 	"Class 110.1 turquoise/cream PRESS (2023)",
         ["110.2_dessau"] = 	"Class 110.2 Vehicle maintenance Dessau 110 511 (2005)",
-        ["e10.2_rheingold"] = "E 10.2 steelblue/cream DB Rheingold (1962)",
+        ["e10.2_rheingold"] = "E 10.2 steelblue/cream Rheingold (1962)",
 	    ["e10_desc"] = "The class E 10 was the standard electric locomotive for passenger service in the concept of the Deutsche Bundesbahn from 1950. It had been the most important engine for several years and have been changed over time. E 10.1 was delivered bottle green big single headlights, since E 10 216 it was changed to double headlights and named as E 10.2. ",
 
 	    ["e10.3_blau"] = 	"E 10.3 steelblue (1966)",
@@ -417,7 +417,7 @@ return {
         ["110.2_vr4"] = 	"BR 110.2 verkehrsrot 2 DB AG 3-Löwen-Takt (1998)",
         ["110.2_press"] = 	"BR 110.1 ozeanblau/beige PRESS (2023)",
         ["110.2_dessau"] = 	"BR 110.2 Fahrzeuginstandhaltung Dessau 110 511 (2005)",
-        ["e10.2_rheingold"] = "E 10.2 stahlblau/beige DB Rheingold (1962)",
+        ["e10.2_rheingold"] = "E 10.2 stahlblau/beige Rheingold (1962)",
 		["e10_desc"] = "Die E 10 war die Einheitselektrolokomotive für den Schnellzugverkehrs im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. E 10.1 wurde mit großen Einzellampen ausgeliefert, ab E 10 216 wurden Doppellampen verbaut und als E 10.2 bezeichnet. ",
 
 		["e10.3_blau"] = 	"E 10.3 stahlblau (1966)",
