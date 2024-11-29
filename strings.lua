@@ -464,7 +464,7 @@ return {
         ["110.3_rewe"] =    "BR 110 Fairer Super Markt im Zug (2021)",
         ["110.3_tri"] =     "BR 110.3 TRI (2016)",
         ["110.3_tri2"] =    "BR 110.3 TRI (2020)",
-        ["110.3_nx"] =      "BR 110.3 National Express (2022)",
+        ["110.3_nx"] =      "BR 110.3 National Express (2021)",
 
         ["e10_340_blau"] = 	"E 10 340 stahlblau DB (1965)",
         ["e10_477"] = 		"E 10 477 kobaltblau DB (1967)",
@@ -480,9 +480,9 @@ return {
         ["110_383_blau"] = 	"BR 110 383-2 stahlblau DB (1968)",
         ["110_384_blau"] = 	"BR 110 384-5 stahlblau DB (1968)",
         ["110_480"] = 		"BR 110 480-1 stahlblau DB (1968)",
-        ["112_311_tee"] = 	"BR 110 311-6 purpurrot/beige DB 150 Jahre (1985)",
-        ["112_488_tee"] = 	"BR 110 488-2 purpurrot/beige DB (1968)",
-        ["112_491_tee"] = 	"BR 110 491-4 purpurrot/beige DB (1985)",
+        ["112_311_tee"] = 	"BR 112 311-6 purpurrot/beige DB 150 Jahre (1985)",
+        ["112_488_tee"] = 	"BR 112 488-2 purpurrot/beige DB (1968)",
+        ["112_491_tee"] = 	"BR 112 491-4 purpurrot/beige DB (1985)",
 
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
         ["rheingold_desc"] =	"Loks für den Rheingold in passender Lackierung",
