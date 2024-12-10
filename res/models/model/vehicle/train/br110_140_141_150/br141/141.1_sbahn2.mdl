@@ -245,7 +245,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br141/141.1_sbahn2.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_front2_lod0.msh",
+						mesh = "vehicle/train/br110_140_141_150/br141/regenrinne_front_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
