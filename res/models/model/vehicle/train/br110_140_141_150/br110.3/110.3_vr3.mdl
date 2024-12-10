@@ -238,6 +238,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br110.3/110.3_vr3.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_halter_lod0.msh",
+						name = "MSH_e10_frontstange_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/einheitsloks/allgemein_110.3_vr.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/griffe_front_lod0.msh",
 						name = "MSH_110_gusskeks_1",

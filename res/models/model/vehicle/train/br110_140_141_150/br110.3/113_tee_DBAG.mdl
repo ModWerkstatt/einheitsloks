@@ -196,6 +196,12 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						materials = { "vehicle/train/br110.3/113_tee_DBAG.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/br110.3/tritt_halter_lod0.msh",
+						name = "MSH_e10_frontstange_bs_1",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/br110.3/unterbau_112_tee.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110_140/puffer_rund_lod0.msh",
 						name = "MSH_110.1_rumpfrinne_bs_1",
