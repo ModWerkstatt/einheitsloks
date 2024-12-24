@@ -614,7 +614,7 @@ return {
         ["141.1_co3"] = 	"BR 141.1 chromoxidgrün DB AG (1994)",
         ["141.1_co4"] = 	"BR 141.1 chromoxidgrün 3 (1968)",
         ["141.1_co5"] = 	"BR 141.1 chromoxidgrün DB AG (1994)",
-        ["141.1_co6"] = 	"BR 141.1 chromoxidgrün DB AG (1994)",
+        ["141.1_co6"] = 	"BR 141.1 chromoxidgrün DB  mit E-Bremse (1972)",
         ["141.1_ob"] = 		"BR 141.1 ozeanblau/beige (1978)",
         ["141.1_ob2"] = 	"BR 141.1 ozeanblau/beige 2 (1978)",
         ["141.1_ob3"] = 	"BR 141.1 ozeanblau/beige DB AG (1994)",
