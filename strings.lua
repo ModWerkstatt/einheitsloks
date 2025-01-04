@@ -142,6 +142,7 @@ return {
         ["112_488_tee"] = 	"Class 110 488-2 purple/cream (1968)",
         ["112_491_tee"] = 	"Class 110 491-4 purple/cream (1985)",
 
+        ["e10.12_desc"] = "The E 10.12 was specially designed for the Rheingold and shortly afterwards also for the Rheinpfeil. In terms of design, they corresponded to the box-type locomotives and only had the more streamlined crease at the front.",
 	    ["buegelfalte_desc"] = "The class 110 is a class of the so call Einheitsloks of Deutsche Bundesbahn. From E 10 288 new engines of this class were built bottle green a newer, aerodynamical better body bottle green the so called crease front (german \"Bügelfalte\") which has been used at the E 10.12 already. This class were numbered sub-class 110.3.",
 	    ["rheingold_desc"] =	"Locomotives for the Rheingold in matching paintwork",
 	    ["tee_desc"] = 		    "Locomotives for the TEE in matching paintwork",
@@ -325,7 +326,7 @@ return {
         ["150.1_vr"] = 		"Class 150.1 traffic red DB AG (1998)",
         ["150.1_vr2"] = 	"Class 150.1 traffic red DB AG 2 (1998)",
 
-	    ["BR150_desc"] = "The Class 150 was redesignated in 1968 from class E 40. It was built as heavy freight mover to be used on the increasingly electrified main lines of the DB, where they were set to replace the steam traction. ",
+	    ["e50_desc"] = "The Class 150 was redesignated in 1968 from class E 40. It was built as heavy freight mover to be used on the increasingly electrified main lines of the DB, where they were set to replace the steam traction. ",
 
 	    ["einfach_desc"] = " Variant bottle green single lamp.",
 	    ["einfach2_desc"] = " Variant bottle green single lamp and reversible pull control.",
@@ -484,12 +485,13 @@ return {
         ["112_488_tee"] = 	"BR 112 488-2 purpurrot/beige DB (1968)",
         ["112_491_tee"] = 	"BR 112 491-4 purpurrot/beige DB (1985)",
 
+        ["e10.12_desc"] = "Die E 10.12 wurden extra für den Rheingold und kurz später auch für den Rheinpfeil entworfen. Sie entsprachen konstruktiv den Kasten-Elloks und besassen nur an der Front die windschnittigere Bügelfalte.",
 		["buegelfalte_desc"] = "Die Baureihe 110 ist eine Baureihe der sogenannte Einheitsloks der Deutschen Bundesbahn. Anfangs mit der klassischen Form ausgeliefert, wurden ab E 10 288 die Baureihe mit einem neuen, aerodynamisch günstigeren Lokomotivkasten (sogenannte \"Bügelfalten-Front\") gefertigt, der zuvor bei der E 10.12 eingeführt worden war. Diese Lokomotiven werden daher auch als E 10.3 bezeichnet.",
         ["rheingold_desc"] =	"Loks für den Rheingold in passender Lackierung",
 		["tee_desc"] = 			"Loks für den TEE in passender Lackierung",
 
 
-        	        ["139.1_co"] = 		"BR 139.1 chromoxidgrün (1968)",
+        ["139.1_co"] = 		"BR 139.1 chromoxidgrün (1968)",
         ["139.1_co2"] = 	"BR 139.1 chromoxidgrün DB AG (1994)",
         ["139.1_ob"] = 		"BR 139.1 ozeanblau/beige DB (1978)",
         ["139.1_ob2"] = 	"BR 139.1 ozeanblau/beige DB AG (1994)",
@@ -669,7 +671,7 @@ return {
         ["150.1_vr"] = 		"BR 150.1 verkehrsrot DB AG (1998)",
         ["150.1_vr2"] = 	"BR 150.1 verkehrsrot DB AG 2 (1998)",
 
-		["BR150_desc"] = "Die Baureihe BR 150 ist eine für die Deutsche Bundesbahn erstmals im Jahre 1957 gebaute Einheitselektrolokomotive für den schweren Güterverkehr. Mit ihren drei-achsigen Drehgestellen war sie in der Lage schwere Güterzüge zu befördern, allerdings war oberhalb von 80 km/h der Verschleiß stark erhöht. ",
+		["e50_desc"] = "Die Baureihe BR 150 ist eine für die Deutsche Bundesbahn erstmals im Jahre 1957 gebaute Einheitselektrolokomotive für den schweren Güterverkehr. Mit ihren drei-achsigen Drehgestellen war sie in der Lage schwere Güterzüge zu befördern, allerdings war oberhalb von 80 km/h der Verschleiß stark erhöht. ",
 
 		["einfach_desc"] = " Variante mit Einfachlampe.",
 		["einfach2_desc"] = " Variante mit Einfachlampe und Wendezugsteurung.",
