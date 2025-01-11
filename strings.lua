@@ -192,7 +192,7 @@ return {
         ["140.0_or4"] = 	"Class 140.0 orient red 2 DB AG (1994)",
         ["140.0_vr"] = 		"Class 140.0 traffic red DB AG (1998)",
 
-                ["e40.1_co"] = 		"E 40.1 chromium oxide green (1960)",
+        ["e40.1_co"] = 		"E 40.1 chromium oxide green (1960)",
         ["140.1_co"] = 		"Class 140.1 chromium oxide green (1968)",
         ["140.1_co2"] = 	"Class 140.1 chromium oxide green 2 (1968)",
         ["140.1_co3"] = 	"Class 140.1 chromium oxide green DB cookie raspberry red (1987)",
@@ -245,7 +245,7 @@ return {
 	    ["e40_desc"] = "The class E 40 was the standard electric locomotive for freight service in the concept of the Deutsche Bundesbahn from 1950. Originally it was named E 10 but this was changed in 1968 to class 110. It had been the most important engine for several years and have been changed over time. Cause of it being nearly identical to the class 110 it was also used in slower passenger services. ",
 
 
-                ["e41.0_bs"] = 		"E 41.0 steelblue (1957)",
+        ["e41.0_bs"] = 		"E 41.0 steelblue (1957)",
         ["e41.0_fg"] = 		"E 41.0 bottle green (1958)",
         ["e41.0_co"] = 		"E 41.0 chromium oxide green (1960)",
         ["141.0_bs"] =		"Class 141.0 steelblue (1968)",
@@ -272,6 +272,8 @@ return {
         ["141.1_co4"] = 	"Class 141.1 chromium oxide green 3 (1968)",
         ["141.1_co5"] = 	"Class 141.1 chromium oxide green DB AG (1994)",
         ["141.1_co6"] = 	"Class 141.1 chromium oxide green DB AG (1994)",
+        ["e41.1_co11"] = 	"E 41.1 chromium oxide green S-Bahn (1967)",
+        ["141.1_co12"] = 	"Class 141.1 chromium oxide green S-Bahn (1968)",
         ["141.1_ob"] = 		"Class 141.1 turquoise/cream (1978)",
         ["141.1_ob2"] = 	"Class 141.1 turquoise/cream 2 (1978)",
         ["141.1_ob3"] = 	"Class 141.1 turquoise/cream DB AG (1994)",
@@ -285,9 +287,10 @@ return {
         ["141.1_or2"] = 	"Class 141.1 orient red DB AG (1994)",
         ["141.1_or3"] = 	"Class 141.1 orient red with electric brake (1987)",
         ["141.1_or4"] = 	"Class 141.1 orient red DB AG with electric brake (1994)",
+        ["141.1_or5"] = 	"Class 141.1 orient red S-Bahn (1987)",
         ["141.1_vr"] = 		"Class 141.1 traffic red DB AG (1998)",
         ["141.1_sbahn"] = 	"Class 141.1 orange/pebble grey (1987)",
-        ["141.1_sbahn2"] = 	"Class 141.1 orange/pebble grey DB AG (1998)",
+        ["141.1_sbahn2"] = 	"Class 141.1 orange/pebble grey DB AG (1994)",
 
 	    ["e41_desc"] = "Class E 41 was designed for local traffic and branch lines. It is the lightest engine in the concept and has been proven reliable in pulling local trains. They engines have been also used in express services in the early years until the speed of express trains have been raised to 140 km/h (87 mp/h). ",
 
@@ -590,7 +593,7 @@ return {
 		["e40_desc"] = "Die BR 140 war die Einheitselektrolokomotive für den Güterverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war lange Jahre die wichtigste Lokomotive in diesem Bereich mit zahlreichen Umbauten im Laufe des Leben. Da sie fast baugleich mit der BR 110 ist, wurde sie auch für den langsamen Personenverkehr genutzt. ",
 
 
-                ["e41.0_bs"] = 		"E 41.0 stahlblau (1957)",
+        ["e41.0_bs"] = 		"E 41.0 stahlblau (1957)",
         ["e41.0_fg"] = 		"E 41.0 flaschengrün (1958)",
         ["e41.0_co"] = 		"E 41.0 chromoxidgrün (1960)",
         ["141.0_bs"] =		"BR 141.0 stahlblau (1968)",
@@ -617,6 +620,8 @@ return {
         ["141.1_co4"] = 	"BR 141.1 chromoxidgrün 3 (1968)",
         ["141.1_co5"] = 	"BR 141.1 chromoxidgrün DB AG (1994)",
         ["141.1_co6"] = 	"BR 141.1 chromoxidgrün DB  mit E-Bremse (1972)",
+        ["e41.1_co11"] = 	"E 41.1 chromoxidgrün mit S-Bahn Schild (1967)",
+        ["141.1_co12"] = 	"BR 141.1 chromoxidgrün mit S-Bahn Schild (1968)",
         ["141.1_ob"] = 		"BR 141.1 ozeanblau/beige (1978)",
         ["141.1_ob2"] = 	"BR 141.1 ozeanblau/beige 2 (1978)",
         ["141.1_ob3"] = 	"BR 141.1 ozeanblau/beige DB AG (1994)",
@@ -630,14 +635,11 @@ return {
         ["141.1_or2"] = 	"BR 141.1 orientrot DB AG (1994)",
         ["141.1_or3"] = 	"BR 141.1 orientrot mit E-Bremse (1987)",
         ["141.1_or4"] = 	"BR 141.1 orientrot DB AG mit E-Bremse (1994)",
+        ["141.1_or5"] = 	"BR 141.1 orientrot S-Bahn (1987)",
         ["141.1_vr"] = 		"BR 141.1 verkehrsrot DB AG (1998)",
         ["141.1_sbahn"] = 	"BR 141.1 orange/kieselgrau (1987)",
-        ["141.1_sbahn2"] = 	"BR 141.1 orange/kieselgrau DB AG (1998)",
-				
-        ["e41.1_co11"] = 		"E 41.1 chromoxidgrün mit S-Bahn Logo (1966)",
-        ["141.1_co12"] = 		"BR 141.1 chromoxidgrün mit S-Bahn Logo (1968)",
-        ["141.1_or6"] = 		"BR 141.1 orientrot mit Zza (1987)",
-		
+        ["141.1_sbahn2"] = 	"BR 141.1 orange/kieselgrau DB AG (1994)",
+
 		["e41_desc"] = "Die BR 141 war die Einheitselektrolokomotive hauptsächlich gedacht für den Personenverkehrs auf Nebenbahnen und im Nahverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war aber vor allen leichten Zügen anzutreffen, sogar vor Güterzügen. Sie war die kleinste und leichteste Lokomotive innerhalb des Konzepts der elektrischen Einheitslokomotiven. ",
 
 

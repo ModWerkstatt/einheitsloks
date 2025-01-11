@@ -779,14 +779,14 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1966,
+			yearFrom = 1967,
 			yearTo = 1968,
 		},
 		cost = {
 			price = -1,
 		},
 		description = {
-			name = _("e41.1_co1111"),
+			name = _("e41.1_co11"),
 			description = _("e41_desc") .. _("einfach2_desc"),
 		},
 		emission = {
