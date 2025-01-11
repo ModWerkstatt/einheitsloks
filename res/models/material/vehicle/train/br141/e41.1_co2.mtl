@@ -34,7 +34,7 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br141/rumpf_1_co8_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br141/rumpf_1_co_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		map_normal = {
