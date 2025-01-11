@@ -12,8 +12,17 @@ return {
         ["br141_menu"] = "Class 141.0 / 141.1",
         ["br150_menu"] = "Class 150.0 / 150.1",
 
+        ["br110.1_vorspann_menu"] = "BR 110.1 / 110.2 Lead",
+        ["br110.3_vorspann_menu"] = "BR 110.3 / 115.3 Lead",
+        ["br139_vorspann_menu"] = "BR 139.1 / 139.2 Lead",
+        ["br140_vorspann_menu"] = "BR 140.0 / 140.1 / 140.7 Lead",
+        ["br141_vorspann_menu"] = "BR 141.0 / 141.1 Lead",
+        ["br150_vorspann_menu"] = "BR 150.0 / 150.1 Lead",
+
+        ['vorspann'] = 'Lead - ',
+
         ["einheitsloks_vorspann"] = "Active lead engines?",
-        ["option_vorspann_einheitsloks_desc"] = "Active the lead engines (bottle green front panto raised)?",
+        ["option_vorspann_einheitsloks_desc"] = "Active the lead engines (front panto raised)?",
 
         ["einheitsloks_fake"] = "Active fake engines?",
         ["option_fake_einheitsloks_desc"] = "Active the fake engines (pantos down, no light, no driver)?",
@@ -357,6 +366,15 @@ return {
         ["br140_menu"] = "BR 140.0 / 140.1 / 140.7",
         ["br141_menu"] = "BR 141.0 / 141.1",
         ["br150_menu"] = "BR 150.0 / 150.1",
+
+        ["br110.1_vorspann_menu"] = "BR 110.1 / 110.2 Vorspann",
+        ["br110.3_vorspann_menu"] = "BR 110.3 / 115.3 Vorspann",
+        ["br139_vorspann_menu"] = "BR 139.1 / 139.2 Vorspann",
+        ["br140_vorspann_menu"] = "BR 140.0 / 140.1 / 140.7 Vorspann",
+        ["br141_vorspann_menu"] = "BR 141.0 / 141.1 Vorspann",
+        ["br150_vorspann_menu"] = "BR 150.0 / 150.1 Vorspann",
+
+        ['vorspann'] = 'Vorspann - ',
 
         ["einheitsloks_vorspann"] = "Vorspann-Loks aktivieren?",
         ["option_vorspann_einheitsloks_desc"] = "Sollen die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
