@@ -633,7 +633,11 @@ return {
         ["141.1_vr"] = 		"BR 141.1 verkehrsrot DB AG (1998)",
         ["141.1_sbahn"] = 	"BR 141.1 orange/kieselgrau (1987)",
         ["141.1_sbahn2"] = 	"BR 141.1 orange/kieselgrau DB AG (1998)",
-
+				
+        ["e41.1_co11"] = 		"E 41.1 chromoxidgrün mit S-Bahn Logo (1966)",
+        ["141.1_co12"] = 		"BR 141.1 chromoxidgrün mit S-Bahn Logo (1968)",
+        ["141.1_or6"] = 		"BR 141.1 orientrot mit Zza (1987)",
+		
 		["e41_desc"] = "Die BR 141 war die Einheitselektrolokomotive hauptsächlich gedacht für den Personenverkehrs auf Nebenbahnen und im Nahverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war aber vor allen leichten Zügen anzutreffen, sogar vor Güterzügen. Sie war die kleinste und leichteste Lokomotive innerhalb des Konzepts der elektrischen Einheitslokomotiven. ",
 
 
