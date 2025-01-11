@@ -786,6 +786,32 @@ return {
 			lifespan = 29220,
 			runningCosts = -1,
 		},
+        labelList = {
+			labels = {
+				{
+					alignment = "CENTER",
+					childId = "RootNode",
+					color = { 0, 0, 0, },
+					filter = "NONE",
+					fitting = "SCALE",
+					size = { 0.7, 0.09, },
+					transf = { -0.191, 0.982, 0, 0, 0, 0, 1, 0, 0.982, 0.191, 0, 0, 7, 0.3, 2.75, 1, },
+					type = "LINE_NAME",
+					verticalAlignment = "CENTER",
+				},
+				{
+					alignment = "CENTER",
+					childId = "RootNode",
+					color = { 0, 0, 0, },
+					filter = "NONE",
+					fitting = "SCALE",
+					size = { 0.7, 0.09, },
+					transf = { 0.208, -0.978, 0, 0, 0, 0, 1, 0, -0.978, -0.208, 0, 0, -7, -0.3, 2.75, 1, },
+					type = "LINE_NAME",
+					verticalAlignment = "CENTER",
+				},
+			},
+		},
 		railVehicle = {
 			configs = {
 				{
