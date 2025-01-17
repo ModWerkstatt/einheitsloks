@@ -12,14 +12,22 @@ return {
         ["br141_menu"] = "Class 141.0 / 141.1",
         ["br150_menu"] = "Class 150.0 / 150.1",
 
-        ["br110.1_vorspann_menu"] = "BR 110.1 / 110.2 Lead",
-        ["br110.3_vorspann_menu"] = "BR 110.3 / 115.3 Lead",
-        ["br139_vorspann_menu"] = "BR 139.1 / 139.2 Lead",
-        ["br140_vorspann_menu"] = "BR 140.0 / 140.1 / 140.7 Lead",
-        ["br141_vorspann_menu"] = "BR 141.0 / 141.1 Lead",
-        ["br150_vorspann_menu"] = "BR 150.0 / 150.1 Lead",
+        ["br110.1_vorspann_menu"] = "Class 110.1 / 110.2 Lead",
+        ["br110.3_vorspann_menu"] = "Class 110.3 / 115.3 Lead",
+        ["br139_vorspann_menu"] = "Class 139.1 / 139.2 Lead",
+        ["br140_vorspann_menu"] = "Class 140.0 / 140.1 / 140.7 Lead",
+        ["br141_vorspann_menu"] = "Class 141.0 / 141.1 Lead",
+        ["br150_vorspann_menu"] = "Class 150.0 / 150.1 Lead",
+
+        ["br110.1_fake_menu"] = "Class 110.1 / 110.2 Fake",
+        ["br110.3_fake_menu"] = "Class 110.3 / 115.3 Fake",
+        ["br139_fake_menu"] = "Class 139.1 / 139.2 Fake",
+        ["br140_fake_menu"] = "Class 140.0 / 140.1 / 140.7 Fake",
+        ["br141_fake_menu"] = "Class 141.0 / 141.1 Fake",
+        ["br150_fake_menu"] = "Class 150.0 / 150.1 Fake",
 
         ['vorspann'] = 'Lead - ',
+        ['fake'] = 'Fake - ',
 
         ["einheitsloks_vorspann"] = "Active lead engines?",
         ["option_vorspann_einheitsloks_desc"] = "Active the lead engines (front panto raised)?",
@@ -299,7 +307,7 @@ return {
         ["141.1_or5"] = 	"Class 141.1 orient red S-Bahn (1987)",
         ["141.1_vr"] = 		"Class 141.1 traffic red DB AG (1998)",
         ["141.1_sbahn"] = 	"Class 141.1 orange/pebble grey (1987)",
-        ["141.1_sbahn2"] = 	"Class 141.1 orange/pebble grey DB AG (1994)",
+        ["141.1_sbahn_dbag"] = 	"Class 141.1 orange/pebble grey DB AG (1994)",
 
 	    ["e41_desc"] = "Class E 41 was designed for local traffic and branch lines. It is the lightest engine in the concept and has been proven reliable in pulling local trains. They engines have been also used in express services in the early years until the speed of express trains have been raised to 140 km/h (87 mp/h). ",
 
@@ -374,7 +382,15 @@ return {
         ["br141_vorspann_menu"] = "BR 141.0 / 141.1 Vorspann",
         ["br150_vorspann_menu"] = "BR 150.0 / 150.1 Vorspann",
 
+        ["br110.1_fake_menu"] = "BR 110.1 / 110.2 Fake",
+        ["br110.3_fake_menu"] = "BR 110.3 / 115.3 Fake",
+        ["br139_fake_menu"] = "BR 139.1 / 139.2 Fake",
+        ["br140_fake_menu"] = "BR 140.0 / 140.1 / 140.7 Fake",
+        ["br141_fake_menu"] = "BR 141.0 / 141.1 Fake",
+        ["br150_fake_menu"] = "BR 150.0 / 150.1 Fake",
+
         ['vorspann'] = 'Vorspann - ',
+        ['fake'] = 'Fake - ',
 
         ["einheitsloks_vorspann"] = "Vorspann-Loks aktivieren?",
         ["option_vorspann_einheitsloks_desc"] = "Sollen die Vorspann-Loks (mit vorderem Panto gehoben) aktiviert werden?",
@@ -656,7 +672,7 @@ return {
         ["141.1_or5"] = 	"BR 141.1 orientrot S-Bahn (1987)",
         ["141.1_vr"] = 		"BR 141.1 verkehrsrot DB AG (1998)",
         ["141.1_sbahn"] = 	"BR 141.1 orange/kieselgrau (1987)",
-        ["141.1_sbahn2"] = 	"BR 141.1 orange/kieselgrau DB AG (1994)",
+        ["141.1_sbahn_dbag"] = 	"BR 141.1 orange/kieselgrau DB AG (1994)",
 
 		["e41_desc"] = "Die BR 141 war die Einheitselektrolokomotive hauptsächlich gedacht für den Personenverkehrs auf Nebenbahnen und im Nahverkehr im 1950 erstellten Konzept der Deutschen Bundesbahn. Sie war aber vor allen leichten Zügen anzutreffen, sogar vor Güterzügen. Sie war die kleinste und leichteste Lokomotive innerhalb des Konzepts der elektrischen Einheitslokomotiven. ",
 
