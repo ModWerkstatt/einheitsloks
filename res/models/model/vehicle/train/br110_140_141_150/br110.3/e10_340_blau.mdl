@@ -280,7 +280,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/allgemein_112.4_tee.mtl", },
+						materials = { "vehicle/train/einheitsloks/allgemein_e10.3_blau.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/unterbau_zs_dose_112_lod0.msh",
 						name = "MSH_110_gusskeks_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
