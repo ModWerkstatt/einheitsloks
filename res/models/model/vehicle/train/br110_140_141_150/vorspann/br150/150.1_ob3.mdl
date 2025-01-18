@@ -854,12 +854,12 @@ return {
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh", },
-					backBackwardParts = { 15, 16, },
-					backForwardParts = { 19, 20, },
-					frontBackwardParts = { 17, 18, },
-					frontForwardParts = { 13, 14, },
-					innerBackwardParts = { 23, 24, },
-					innerForwardParts = { 21, 22, },
+					backBackwardParts = { 13, 14, },
+					backForwardParts = { 17, 18, },
+					frontBackwardParts = { 19, 20, },
+					frontForwardParts = { 15, 16, },
+					innerBackwardParts = { 21, 22, },
+					innerForwardParts = { 23, 24, },
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh", },
