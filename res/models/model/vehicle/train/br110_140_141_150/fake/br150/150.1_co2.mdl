@@ -559,7 +559,7 @@ return {
 			yearTo = 1978,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
 			name = _("fake") .. _("150.1_co2"),

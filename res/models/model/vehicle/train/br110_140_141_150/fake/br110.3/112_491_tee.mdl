@@ -585,7 +585,7 @@ return {
 			yearTo = 1988,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
 			name = _("fake") .. _("112_491_tee"),

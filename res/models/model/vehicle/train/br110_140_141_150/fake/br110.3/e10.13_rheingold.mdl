@@ -549,7 +549,7 @@ return {
 			yearTo = 1968,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
 			name = _("fake") .. _("e10.13_rheingold"),
