@@ -530,12 +530,6 @@ return {
 			configs = {
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh", },
-					backBackwardParts = { 13, 14, 26, },
-					backForwardParts = { 17, 18, 24, },
-					frontBackwardParts = { 15, 16, 25 },
-					frontForwardParts = { 11, 12, 23, },
-					innerBackwardParts = { 21, 22, },
-					innerForwardParts = { 19, 20, },
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh", },

@@ -77,21 +77,15 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
-						name = "MSH_panto_up_1",
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
+						name = "MSH_panto_down_1",
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
+					},
+					{
+						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod0.msh",
+						name = "MSH_panto_down_2",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
-					},
-					{
-						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
-						name = "MSH_panto_up_2",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
-					},
-					{
-						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod0.msh",
-						name = "MSH_panto_up_3",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster2.mtl", },
@@ -276,15 +270,15 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
-						name = "MSH_panto_up_2",
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
+						name = "MSH_panto_down_1",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod1.msh",
-						name = "MSH_panto_up_3",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod1.msh",
+						name = "MSH_panto_down_2",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
@@ -409,15 +403,15 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
-						name = "MSH_panto_up_2",
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
+						name = "MSH_panto_down_1",
 						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
-						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_up_lod2.msh",
-						name = "MSH_panto_up_3",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 4.685, 0, 4, 1, },
+						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
+						name = "MSH_panto_down_2",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
 					},
 					{
 						materials = { "vehicle/train/br110/unterbau_ebs.mtl", },
