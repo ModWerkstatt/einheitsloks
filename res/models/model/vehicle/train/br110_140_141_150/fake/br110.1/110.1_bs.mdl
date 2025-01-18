@@ -511,10 +511,10 @@ return {
 			yearTo = 1974,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
-			name = _("fake") .. _("110.1_bs_fake"),
+			name = _("fake") .. _("110.1_bs"),
 			description = _("e10_desc") .. _("einfach_desc"),
 		},
 		emission = {

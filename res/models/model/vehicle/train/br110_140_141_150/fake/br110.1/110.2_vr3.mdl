@@ -517,7 +517,7 @@ return {
 			yearTo = 2020,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
 			name = _("fake") .. _("110.2_vr3"),
