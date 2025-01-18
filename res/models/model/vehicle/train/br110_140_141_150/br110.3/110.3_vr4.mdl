@@ -292,7 +292,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/einheitsloks/fenster.mtl", },
+						materials = { "vehicle/train/einheitsloks/fenster_110.3.mtl", },
 						mesh = "vehicle/train/br110_140_141_150/br110.3/glas_luefter_klatte_lod0.msh",
 						name = "MSH_e10_trittrost_bs_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
