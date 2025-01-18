@@ -829,7 +829,7 @@ return {
 			yearTo = 2003,
 		},
 		cost = {
-			price = -1,
+			price = 0,
 		},
 		description = {
 			name = _("150.1_vr2"),
