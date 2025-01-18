@@ -572,30 +572,12 @@ return {
 			configs = {
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod0.msh", },
-					backBackwardParts = { 15, 16, 30, },
-					backForwardParts = { 19, 20, 27, },
-					frontBackwardParts = { 17, 18, 28, 29, },
-					frontForwardParts = { 13, 14, 25, 26, },
-					innerBackwardParts = { 23, 24, },
-					innerForwardParts = { 21, 22, },
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod1.msh", },
-					backBackwardParts = { 15, 16, 30, },
-					backForwardParts = { 19, 20, 27, },
-					frontBackwardParts = { 17, 18, 28, 29, },
-					frontForwardParts = { 13, 14, 25, 26, },
-					innerBackwardParts = { 23, 24, },
-					innerForwardParts = { 21, 22, },
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh", },
-					backBackwardParts = { 15, 16, },
-					backForwardParts = { 19, 20, },
-					frontBackwardParts = { 17, 18, },
-					frontForwardParts = { 13, 14, },
-					innerBackwardParts = { 23, 24, },
-					innerForwardParts = { 21, 22, },
 				},
 				{
 					axles = { "vehicle/train/br110_140_141_150/allgemein/rad_lod2.msh", },
