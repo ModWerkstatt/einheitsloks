@@ -845,7 +845,7 @@ return {
 					backBackwardParts = { 15, 16, 32, },
 					backForwardParts = { 19, 20, 29, },
 					frontBackwardParts = { 21, 22, 30, 31, },
-					frontForwardParts = { 17, 18, 25, 26, },
+					frontForwardParts = { 17, 18, 27, 28, },
 					innerBackwardParts = { 23, 24, },
 					innerForwardParts = { 25, 26, },
 				},
