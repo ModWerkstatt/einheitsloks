@@ -563,7 +563,7 @@ return {
 				},
 			},
 			soundSet = { name = "waggon_modern", },
-			topSpeed = 27.777777778,
+			topSpeed = 30.55556,
 			weight = 83,
 		},
 		seatProvider = {
