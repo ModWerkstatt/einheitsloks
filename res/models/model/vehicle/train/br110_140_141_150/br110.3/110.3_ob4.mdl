@@ -646,7 +646,6 @@ return {
 						mesh = "vehicle/train/br110_140_141_150/allgemein/panto_schere_down_lod2.msh",
 						name = "MSH_panto_down_6",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -4.685, 0, 4, 1, },
-					}, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/einheitsloks/fenster_110.3.mtl", },
