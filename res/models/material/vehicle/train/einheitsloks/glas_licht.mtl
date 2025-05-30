@@ -6,6 +6,13 @@ return {
 			fadeOutEndDist = 20000,
 			fadeOutStartDist = 10000,
 		},
+		alpha_test = {
+			a2CThreshold = 0,
+			alphaThreshold = 0.5,
+			cutout = false,
+			disableDepthAndNormalWrite = false,
+			sorted = true,
+		},
 		map_albedo_opacity = {
 			fileName = "models/vehicle/train/einheitsloks/glas_albedo_opacity.dds",
 			type = "TWOD",
